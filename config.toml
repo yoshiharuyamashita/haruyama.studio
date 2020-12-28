@@ -1,0 +1,110 @@
+######################## Default configuration ####################
+baseURL = "https://examplesite.com"
+languageCode = "en"
+title = "Haruyama"
+theme = "hargo"
+summaryLength = "20"
+paginate = 10
+disqusShortname = ""
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS plugins
+  [[params.plugins.css]]
+  link = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  link = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  link = "plugins/themify-icons/themify-icons.css"
+
+  # JS plugins
+  [[params.plugins.js]]
+  link = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  link = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  link = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  link = "plugins/google-map/gmap.js"
+
+############################## Navigation ###############################
+[menu]
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 1
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Blog"
+  URL = "blog"
+  weight = 1
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "contact"
+  weight = 2
+
+#################### Default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+
+# Meta data
+description = "Ceramics handmade in Cardiff UK"
+author = "Yoshiharu Yamashita"
+
+# Google map
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+mapLatitude = "51.481583"
+mapLongitude = "-3.179090"
+mapMarker = "images/marker.png"
+
+# Google analitycs
+googleAnalitycsID = ""
+
+# Contact info
+# mobile = ""
+# email = ""
+# location = ""
+
+# Copyright
+copyright = "&copy; 2020 Haruyama"
+
+# Snipcart credentials
+# snipcartApiKey = ""
+# currencySymbol = ""
+
+  # Preloader
+  [params.preloader]
+  enable = false
+  preloader = "" # use .png , .svg or .gif format
+
+  # Product rating (works with https://rating-widget.com/)
+  [params.rating]
+  enable = false
+  websiteID = ""
+  publicKey = ""
+
+  # Social sites
+  [[params.social]]
+  icon = "ti-instagram"
+  link = "https://www.instagram.com/haruyama.studio"
+
+  [[params.social]]
+  icon = "ti-github"
+  link = "https://github.com/yoshiharuyamashita"
+
+  [[params.social]]
+  icon = "ti-email"
+  link = "mailto:yoshiharuyamashita@outlook.com"
+
+  # Contact form (works with https://formspree.io/)
+  [params.contact]
+  formAction = "#"
