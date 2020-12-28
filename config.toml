@@ -101,6 +101,10 @@ copyright = "&copy; 2020 Haruyama"
   icon = "ti-github"
   link = "https://github.com/yoshiharuyamashita"
 
+  [[params.social]]
+  icon = "ti-email"
+  link = "mailto:yoshiharuyamashita@outlook.com"
+
   # Contact form (works with https://formspree.io/)
   [params.contact]
   formAction = "#"
