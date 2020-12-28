@@ -1,4 +1,4 @@
-######################## default configuration ####################
+######################## Default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en"
 title = "Haruyama"
@@ -10,7 +10,7 @@ disqusShortname = ""
 ############################# Plugins ##############################
 [params.plugins]
 
-  # CSS Plugins
+  # CSS plugins
   [[params.plugins.css]]
   link = "plugins/bootstrap/bootstrap.min.css"
   [[params.plugins.css]]
@@ -18,7 +18,7 @@ disqusShortname = ""
   [[params.plugins.css]]
   link = "plugins/themify-icons/themify-icons.css"
 
-  # JS Plugins
+  # JS plugins
   [[params.plugins.js]]
   link = "plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
@@ -28,79 +28,71 @@ disqusShortname = ""
   [[params.plugins.js]]
   link = "plugins/google-map/gmap.js"
 
-
-############################## navigation ###############################
+############################## Navigation ###############################
 [menu]
 
-  # [[menu.main]]
-  # name = "Products"
-  # URL = "products"
-  # weight = 1
-
   [[menu.main]]
   name = "Blog"
   URL = "blog"
-  weight = 2
+  weight = 1
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 3
-
-  ############# footer menu #############
-  # [[menu.footer]]
-  # name = "Products"
-  # URL = "products"
-  # weight = 1
+  weight = 2
 
   [[menu.footer]]
   name = "Blog"
   URL = "blog"
-  weight = 2
+  weight = 1
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 3
+  weight = 2
 
-
-#################### default parameters ################################
+#################### Default parameters ################################
 [params]
 logo = "images/logo.png"
 home = "Home"
+
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
-# google map
+description = "Ceramics handmade in Cardiff UK"
+author = "Yoshiharu Yamashita"
+
+# Google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.481583"
 mapLongitude = "-3.179090"
 mapMarker = "images/marker.png"
-# Google Analitycs
-googleAnalitycsID = "" # Your ID
-# Contact Information
+
+# Google analitycs
+googleAnalitycsID = ""
+
+# Contact info
 # mobile = ""
 # email = ""
 # location = ""
-# copyright
+
+# Copyright
 copyright = "&copy; 2020 Haruyama"
-# Snipcart Credentials
-# snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
-currencySymbol = "£"
+
+# Snipcart credentials
+# snipcartApiKey = ""
+# currencySymbol = ""
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
   preloader = "" # use .png , .svg or .gif format
 
-  # Product Rating
-  # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
+  # Product rating (works with https://rating-widget.com/)
   [params.rating]
-  enable = true
-  websiteID = "444334"
-  publicKey = "811cf0927332bf51f2e12f84608594ac"
+  enable = false
+  websiteID = ""
+  publicKey = ""
 
-  # Social Site
+  # Social sites
   [[params.social]]
   icon = "ti-instagram"
   link = "https://www.instagram.com/haruyama.studio"
@@ -109,6 +101,6 @@ currencySymbol = "£"
   icon = "ti-github"
   link = "https://github.com/yoshiharuyamashita"
 
-  # Contact Form
+  # Contact form (works with https://formspree.io/)
   [params.contact]
-  formAction = "#" # contact form works with formspree.io
+  formAction = "#"
