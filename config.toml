@@ -1,5 +1,5 @@
 ######################## Default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://haruyama.netlify.app/"
 languageCode = "en"
 title = "Haruyama"
 theme = "hargo"
