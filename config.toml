@@ -1,3 +1,110 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+######################## default configuration ####################
+baseURL = "https://examplesite.com"
+languageCode = "en"
+title = "Haruyama"
+theme = "hargo"
+summaryLength = "20"
+paginate = 10
+disqusShortname = ""
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  link = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  link = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  link = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  link = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  link = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  link = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  link = "plugins/google-map/gmap.js"
+
+
+############################## navigation ###############################
+[menu]
+
+  [[menu.main]]
+  name = "Products"
+  URL = "products"
+  weight = 1
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 3
+
+  ############# footer menu #############
+  [[menu.footer]]
+  name = "Products"
+  URL = "products"
+  weight = 1
+
+  [[menu.footer]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "contact"
+  weight = 3
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# google map
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+mapLatitude = "51.481583"
+mapLongitude = "-3.179090"
+mapMarker = "images/marker.png"
+# Google Analitycs
+googleAnalitycsID = "" # Your ID
+# Contact Information
+# mobile = ""
+# email = ""
+# location = ""
+# copyright
+copyright = "&copy; 2020 Haruyama"
+# Snipcart Credentials
+# snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
+currencySymbol = "£"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # Product Rating
+  # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
+  [params.rating]
+  enable = true
+  websiteID = "444334"
+  publicKey = "811cf0927332bf51f2e12f84608594ac"
+
+  # Social Site
+  [[params.social]]
+  icon = "ti-instagram"
+  link = "https://www.instagram.com/haruyama.studio"
+
+  # Contact Form
+  [params.contact]
+  formAction = "#" # contact form works with formspree.io
