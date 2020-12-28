@@ -32,10 +32,10 @@ disqusShortname = ""
 ############################## navigation ###############################
 [menu]
 
-  [[menu.main]]
-  name = "Products"
-  URL = "products"
-  weight = 1
+  # [[menu.main]]
+  # name = "Products"
+  # URL = "products"
+  # weight = 1
 
   [[menu.main]]
   name = "Blog"
@@ -48,10 +48,10 @@ disqusShortname = ""
   weight = 3
 
   ############# footer menu #############
-  [[menu.footer]]
-  name = "Products"
-  URL = "products"
-  weight = 1
+  # [[menu.footer]]
+  # name = "Products"
+  # URL = "products"
+  # weight = 1
 
   [[menu.footer]]
   name = "Blog"
