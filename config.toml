@@ -105,6 +105,10 @@ currencySymbol = "£"
   icon = "ti-instagram"
   link = "https://www.instagram.com/haruyama.studio"
 
+  [[params.social]]
+  icon = "ti-github"
+  link = "https://github.com/yoshiharuyamashita"
+
   # Contact Form
   [params.contact]
   formAction = "#" # contact form works with formspree.io
