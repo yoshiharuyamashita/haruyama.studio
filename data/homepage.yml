@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Ceramics handmade in Cardiff UK"
-  content : "Wheel-thrown by Yoshiharu Yamashita"
+  content : "Wheel-thrown by Yoshiharu Yamashita, Yoshi for short."
   image : "images/banner.jpg"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "About Haruyama"
-  content : "Hi there! My name is Yoshiharu Yamashita, Yoshi for short."
+  content : "A platform to showcase my work, share some of my experiences in pottery and document/track my progress."
   image : "images/about.jpg"
 
 
