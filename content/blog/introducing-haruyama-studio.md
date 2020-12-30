@@ -10,7 +10,7 @@ Hello world!
 
 A few days ago, I set a goal to create a website showcasing my work before 2020 ends.
 
-Well, here it is the website!
+Well, here it is!
 
 Mind you, I don't have my work to show yet but I'm working on it :grin:
 
