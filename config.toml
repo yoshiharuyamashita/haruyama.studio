@@ -82,7 +82,7 @@ googleAnalitycsID = ""
 # Contact info
 # mobile = ""
 # email = ""
-# location = ""
+location = "Cardiff, UK"
 
 # Copyright
 copyright = "&copy; 2020 Haruyama"
@@ -117,4 +117,4 @@ copyright = "&copy; 2020 Haruyama"
 
   # Contact form (works with https://formspree.io/)
   [params.contact]
-  formAction = "#"
+  formAction = "/thank-you/"

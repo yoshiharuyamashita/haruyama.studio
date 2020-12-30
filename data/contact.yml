@@ -21,4 +21,4 @@ contact:
 
 ####################### google map ########################
 map:
-  enable: true
+  enable: false
