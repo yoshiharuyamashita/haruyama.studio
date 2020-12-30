@@ -6,6 +6,7 @@ theme = "hargo"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
+enableEmoji = "true"
 
 ############################# Plugins ##############################
 [params.plugins]

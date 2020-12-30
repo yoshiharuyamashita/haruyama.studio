@@ -6,16 +6,12 @@ image: "images/blog/first-post.jpg"
 author: "Yoshi"
 ---
 
-Hi there!
+Hello world!
 
-My name is Yoshiharu Yamashita, Yoshi for short.
+A few days ago, I set a goal to create a website showcasing my work before 2020 ends.
 
-I am originally from Japan but in 2001 I made one of the biggest decisions in my life and came to England to do a university degree course.
+Well, here it is the website!
 
-Being so far from home was not easy to begin with but life in England has turned out to be better than I could ever have imagined when I made that decision.
+Mind you, I don't have my work to show yet but I'm working on it :grin:
 
-I am currently living and working in Cardiff, Wales.
-
-When I am not coding, you can find me getting my hands dirty creating pots in my small home studio.
-
-This site is where I plan to post articles and thoughts on anything pottery related and also showcase what I create.
+Watch this space :boom:
