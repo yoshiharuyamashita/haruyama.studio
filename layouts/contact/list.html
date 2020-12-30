@@ -11,11 +11,26 @@
           <p class="d-none">
             <label>Don't fill this out if you're human: <input name="bot-field" /></label>
           </p>
-          <input type="text" class="form-control mb-2" name="name" placeholder="Your name" required>
-          <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your email" required>
-          <textarea name="message" id="message" class="form-control mb-2" placeholder="Your message" required></textarea>
-          <div data-netlify-recaptcha="true"></div>
-          <button type="submit" value="Submit" class="btn btn-block btn-outline-primary rounded">Submit</button>
+          <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" class="form-control" id="name" name="name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" class="form-control" id="email" name="email" required>
+          </div>
+          <div class="form-group">
+            <label for="subject">Subject:</label>
+            <input type="text" class="form-control" id="subject" name="subject" required>
+          </div>
+          <div class="form-group">
+            <label for="message">Message:</label>
+            <textarea class="form-control" rows="10" id="message" name="message" required></textarea>
+          </div>
+          <div class="form-group">
+            <div data-netlify-recaptcha="true"></div>
+          </div>
+          <button type="submit" class="btn btn-block btn-outline-primary rounded">Submit</button>
         </form>
       </div>
       <div class="col-sm">

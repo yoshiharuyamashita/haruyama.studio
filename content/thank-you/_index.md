@@ -7,4 +7,4 @@ description: "Thank you for getting in touch!"
 
 ### Thank you for getting in touch!
 
-I will get back to you as soon as I can.
+Your form submission has been received. I will get back to you as soon as I can.
