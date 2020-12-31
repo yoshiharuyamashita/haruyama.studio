@@ -66,9 +66,10 @@ enableEmoji = "true"
 [params]
 logo = "images/logo.svg"
 home = "Home"
+strapline = "Ceramics handmade in Cardiff, UK"
 
 # Meta data
-description = "Ceramics handmade in Cardiff UK"
+description = "Ceramics handmade in Cardiff, UK"
 author = "Yoshiharu Yamashita"
 
 # Google map
