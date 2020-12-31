@@ -2,7 +2,7 @@
 title: "About"
 date: 2020-12-30T11:22:16+06:00
 draft: false
-description: "About me and this website"
+description: "This page gives you a bit more information about who I am, my background and what I do."
 ---
 
 ### Hi there!
