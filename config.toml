@@ -78,7 +78,7 @@ mapLongitude = "-3.179090"
 mapMarker = "images/marker.png"
 
 # Google analitycs
-googleAnalitycsID = ""
+googleAnalitycsID = "UA-72514969-3"
 
 # Contact info
 # mobile = ""
