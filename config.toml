@@ -86,6 +86,9 @@ googleAnalitycsID = "UA-72514969-3"
 email = "yoshiharuyamashita@outlook.com"
 location = "Cardiff, UK"
 
+# Count of latest posts to display in footer
+countLatestPostsInFooter = 5
+
 # Copyright
 copyright = "&copy; 2020 Haruyama"
 
