@@ -5,7 +5,7 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      <div class="col-sm">
+      <div class="col-lg-8 mx-auto mb-5">
         <p>If you have any queries please do not hesitate to contact me.</p>
         <form name="contact" action="{{ site.Params.contact.formAction }}" method="POST" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true">
           <p class="d-none">
@@ -32,11 +32,6 @@
           </div>
           <button type="submit" class="btn btn-block btn-outline-primary rounded">Submit</button>
         </form>
-      </div>
-      <div class="col-sm">
-        <ul class="list-unstyled">
-          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i>Currently based in {{ site.Params.location }}.</li>
-        </ul>
       </div>
     </div>
   </div>
