@@ -5,8 +5,8 @@ draft: false
 description: "My first blog post introducing haruyama.studio - it is now up and running!"
 image: "images/blog/first-post.jpg"
 author: "Yoshiharu Yamashita"
-categories: ["Blog"]
-tags: ["Pottery"]
+categories: ["News"]
+tags: ["Website"]
 ---
 
 Hello world!
