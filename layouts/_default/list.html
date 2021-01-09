@@ -5,22 +5,17 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      {{ $paginator := .Paginate .Data.Pages }}
-      {{ range $paginator.Pages }}
       <div class="col-lg-8 mx-auto mb-5">
-        <article class="card rounded-0 border-0">
-          <img src="{{ .Params.Image | absURL }}" alt="{{ .Title | markdownify }}" class="card-img-top rounded-top-0">
-          <div class="card-body px-0">
-            <a href="{{ .Permalink }}" class="h4 d-block">{{ .Title | markdownify }}</a>
-            {{ partial "article-meta.html" . }}
-            <p>{{ .Summary }}</p>
-            <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary">Read More</a>
-          </div>
-        </article>
-      </div>
-      {{ end }}
+        {{ if eq .Kind "taxonomy" }}
+          {{ if eq .Type "categories" }}
+            {{ partialCached "categories" . }}
+          {{ else if eq .Type "tags" }}
+            {{ partialCached "tags" . }}
+          {{ end }}
+        {{ else }}
+          {{ partial "post-list" . }}
+        {{ end }}
     </div>
-    {{ template "_internal/pagination.html" . }}
   </div>
 </section>
 
