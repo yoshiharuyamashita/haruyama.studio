@@ -1,0 +1,7 @@
+{{ $paginator := .Paginate (where .RegularPages "Type" "in" .Site.Params.mainSections) }}
+
+<ul class="list-unstyled">
+  {{ range $paginator.Pages }}
+  <li class="mb-3"><a class="text-color" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  {{ end }}
+</ul>
