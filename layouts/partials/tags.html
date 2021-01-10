@@ -1,5 +1,10 @@
-<ul class="list-unstyled">
-  {{ range .Site.Taxonomies.tags }}
-  <li class="mb-3"><a class="text-color" href="{{ .Page.RelPermalink }}" title="{{ .Page.LinkTitle }} ({{ .Count }})">{{ .Page.LinkTitle }}<span class="ml-1">({{ .Count }})</span></a></li>
-  {{ end }}
-</ul>
+{{ range $.Site.Taxonomies.tags.ByCount }}
+<div class="row mb-2">
+  <div class="text-muted d-none d-sm-block col-sm-2 mt-auto offset-sm-2 text-right">
+    {{ .Count }} post(s)
+  </div>
+  <div class="col">
+    <a class="text-color" href="/tags{{ .Name | relURL }}">#{{ .Page.LinkTitle | markdownify }}</a>
+  </div>
+</div>
+{{ end }}
