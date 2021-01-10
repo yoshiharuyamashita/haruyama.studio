@@ -3,7 +3,6 @@ title: "Introducing Haruyama Studio"
 date: 2020-12-27T20:25:44Z
 draft: false
 description: "My first blog post introducing haruyama.studio - it is now up and running!"
-image: "images/blog/first-post.jpg"
 author: "Yoshiharu Yamashita"
 categories: ["News"]
 tags: ["Website"]
