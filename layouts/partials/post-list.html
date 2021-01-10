@@ -1,7 +1,11 @@
 {{ $paginator := .Paginate (where .RegularPages "Type" "in" .Site.Params.mainSections) }}
-
-<ul class="list-unstyled">
-  {{ range $paginator.Pages }}
-  <li class="mb-3"><a class="text-color" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-  {{ end }}
-</ul>
+{{ range $paginator.Pages }}
+<div class="row mb-2">
+  <div class="text-muted d-none d-sm-block col-sm-2 mt-auto offset-sm-2 text-right">
+    <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">{{ .Date.Format "02 Jan 2006" }}</time>
+  </div>
+  <div class="col">
+    <a class="text-color" href="{{ .URL | relURL }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
+  </div>
+</div>
+{{ end }}
