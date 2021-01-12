@@ -14,6 +14,16 @@ A few days ago, I set a goal to create a website showcasing my work before 2020 
 
 Well, here it is!
 
-Mind you, I don't have my work to show yet but I'm working on it :grin:
+Mind you, I don't have my glazed pieces to show yet but I'm working on it :grin:
+
+In the meantime, here is a couple of old photos:
+
+{{< figure class="figure" figcaption="Throwing a moon jar in teracotta" >}}
+  {{< img src="20210112_192326.jpg" alt="Moon jar" >}}
+{{< /figure >}}
+
+{{< figure class="figure" figcaption="Seven yunomis freshly turned" >}}
+  {{< img src="20210110_165216.jpg" alt="Seven yunomis" >}}
+{{< /figure >}}
 
 Watch this space :boom:
