@@ -7,10 +7,13 @@
         <article>
           <h2>{{ .Title }}</h2>
           {{ partial "article-meta.html" . }}
-          {{ $images := .Resources.ByType "image" }}
-          {{ $image := index $images 0 }}
-          {{ $image := $image.Fit "800x600" }}
-          <img src="{{ $image.RelPermalink}}" alt="{{ .Title }}" class="img-fluid w-100 mb-4">
+          {{ if .Params.image }}
+            {{ $title := .Title }}
+            {{ with .Resources.GetMatch .Params.image }}
+              {{ $image := .Fit "800x600" }}
+              <img src="{{ $image.RelPermalink }}" alt="{{ $title }}" class="img-fluid w-100 mb-4">
+            {{ end }}
+          {{ end }}
           <div class="content">
             {{.Content}}
           </div>

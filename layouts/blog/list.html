@@ -7,12 +7,15 @@
     <div class="row">
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}
-      {{ $images := .Resources.ByType "image" }}
-      {{ $image := index $images 0 }}
-      {{ $image := $image.Fill "512x360 smart" }}
       <div class="col-lg-8 mx-auto mb-5">
         <article class="card rounded-0 border-0">
-          <img src="{{ $image.RelPermalink }}" alt="{{ .Title | markdownify }}" class="card-img-top rounded-top-0">
+          {{ if .Params.image }}
+          {{ $title := .Title }}
+          {{ with .Resources.GetMatch .Params.image }}
+          {{ $image := .Fill "512x360 smart" }}
+          <img src="{{ $image.RelPermalink }}" alt="{{ $title | markdownify }}" class="card-img-top rounded-top-0">
+          {{ end }}
+          {{ end }}
           <div class="card-body px-0">
             <a href="{{ .Permalink }}" class="h4 d-block">{{ .Title | markdownify }}</a>
             {{ partial "article-meta.html" . }}

@@ -4,6 +4,7 @@ date: 2020-12-27T20:25:44Z
 draft: false
 description: "My first blog post introducing haruyama.studio - it is now up and running!"
 author: "Yoshiharu Yamashita"
+image: "20201231_145003.jpg"
 categories: ["News"]
 tags: ["Website"]
 ---
