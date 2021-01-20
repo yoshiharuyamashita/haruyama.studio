@@ -17,14 +17,15 @@ I am currently based in Cardiff, UK.
 
 ### Coder
 
-I code for living and fun.
+I code for a living and for fun.
 
 ### Potter
 
-When I am not coding, you can find me, quite literally, getting my hands dirty creating pots in my small home studio.
+When I am not coding, you can find me quite literally getting my hands dirty creating pots in my small home studio.
 
 ### Haruyama
 
-"Haru" means spring (season) and "yama" mountain in English.
+Haru = spring season
+Yama = mountain
 
 In creating this website, I hope to showcase my work and also to share some of my experiences in pottery.
