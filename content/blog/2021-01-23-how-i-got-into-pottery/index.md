@@ -1,7 +1,7 @@
 ---
 title: "How I got into pottery"
 date: 2021-01-23T11:38:16Z
-draft: true
+draft: false
 description: "My motivation to have a go at wheel thrown pottery."
 author: "Yoshiharu Yamashita"
 image: ""

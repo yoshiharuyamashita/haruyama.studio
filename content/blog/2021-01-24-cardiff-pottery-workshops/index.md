@@ -1,8 +1,8 @@
 ---
 title: "Cardiff Pottery Workshops"
 date: 2021-01-24T11:31:57Z
-draft: true
-description: ""
+draft: false
+description: "What I learned at Cardiff Pottery Workshops."
 author: "Yoshiharu Yamashita"
 image: ""
 categories: ["Pottery"]
