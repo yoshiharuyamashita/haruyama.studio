@@ -4,7 +4,7 @@ date: 2021-01-24T11:31:57Z
 draft: false
 description: "What I learned at Cardiff Pottery Workshops."
 author: "Yoshiharu Yamashita"
-image: ""
+image: "IMG-20210130-WA0011.jpg"
 categories: ["Pottery"]
 tags: ["Cardiff Pottery Workshops"]
 ---
