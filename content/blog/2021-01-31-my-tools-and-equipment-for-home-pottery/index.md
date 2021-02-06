@@ -4,7 +4,7 @@ date: 2021-01-31T10:30:33Z
 draft: false
 description: "A blog post sharing some of my most frequently used pottery tools and equipment."
 author: "Yoshiharu Yamashita"
-image: ""
+image: "20210206_190556.jpg"
 categories: ["Pottery"]
 tags: ["Tools", "Equipment"]
 ---

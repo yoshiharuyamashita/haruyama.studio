@@ -4,7 +4,7 @@ date: 2021-01-23T11:38:16Z
 draft: false
 description: "My motivation to have a go at wheel thrown pottery."
 author: "Yoshiharu Yamashita"
-image: ""
+image: "20210206_173801.jpg"
 categories: ["Pottery"]
 tags: ["Cardiff Pottery Workshops"]
 ---
