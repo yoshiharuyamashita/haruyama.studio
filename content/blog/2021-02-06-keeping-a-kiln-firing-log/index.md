@@ -13,14 +13,39 @@ I am going to do my best to keep a kiln firing log from now on.
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/).
 
-{{< bootstrap-table table_class="table table-striped table-bordered" >}}
-| # | Type | Date | Contents | Notes |
-|---|------|------|----------|-------|
-| 4 | G | 04/Feb/2021 | 1 tall vase, 1 small vase, 6 yunomis ![Stoneware pots](4.jpg "Stoneware glaze firing") | :-1: Tall vase had chipped foot ring due to glaze contacting kiln shelf. :-1: Also it had crawling and pinholes. :warning: Be very careful when getting glaze off shelves! |
-| 3 | G | 24/Jan/2021 | 33 yunomis ![Stoneware pots](3.jpg "Stoneware glaze firing") | Tried [Albany Slip Brown](https://www.bluematchbox.co.uk/amaco-potters-choice-albany-slip-brown.html) and [Vert Lustre](https://www.bluematchbox.co.uk/amaco-potters-choice-vert-lustre.html) (preferred). 3 coats inside and outside. Brushing Albany over Vert produced good effect but not so the other way round. |
-| 2 | B | 23/Dec/2020 | 5 tall vases, 33 yunomis ![Earthenware and stoneware pots](2.jpg "Bisque firing") | Mixture of earthenware and stoneware. 3 or 4 yunomis stacked inside and outside of vases. :+1: No broken pots after firing. |
-| 1 | B | 19/Dec/2020 | ![Stoneware pots](1.jpg "Bisque firing") | All stoneware. |
-{{< /bootstrap-table >}}
+### :fire: 4 :date: 04 Feb 2021 :sake: Glaze
 
-- B = Bisque firing
-- G = Glaze firing
+{{< img src="4.jpg" >}}
+
+- 1 tall vase, 1 small vase and 6 yunomis
+- Programme = slow more cautious stoneware firing
+- Tall vase had chipped foot ring due to glaze contacting kiln shelf
+- Also glaze bubbled (brushed too thick or dust on the pot?)
+- Be very careful when getting glaze off shelves!
+
+### :fire: 3 :date: 24 Jan 2021 :sake: Glaze
+
+{{< img src="3.jpg" >}}
+
+- 33 yunomis
+- Programme = slow more cautious stoneware firing
+- Tried [Albany Slip Brown](https://www.bluematchbox.co.uk/amaco-potters-choice-albany-slip-brown.html) and [Vert Lustre](https://www.bluematchbox.co.uk/amaco-potters-choice-vert-lustre.html) (preferred)
+- 3 coats inside and outside
+- Brushing Albany over Vert produced good effect but not so the other way round
+
+### :fire: 2 :date: 23 Dec 2020 :sake: Bisque
+
+{{< img src="2.jpg" >}}
+
+- 5 tall vases and 33 yunomis
+- Programme = normal bisque firing
+- Mixture of earthenware and stoneware
+- 3 or 4 yunomis stacked inside and outside of vases
+- No broken pots after firing
+
+### :fire: 1 :date: 19 Dec 2020 :sake: Bisque
+
+{{< img src="1.jpg" >}}
+
+- All stoneware pots
+- Programme = normal bisque firing
