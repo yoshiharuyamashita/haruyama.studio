@@ -12,7 +12,7 @@
           {{ if .Params.image }}
           {{ $title := .Title }}
           {{ with .Resources.GetMatch .Params.image }}
-          {{ $image := .Fill "512x360 smart" }}
+          {{ $image := .Fill "770x400 smart" }}
           <img src="{{ $image.RelPermalink }}" alt="{{ $title | markdownify }}" class="card-img-top rounded-top-0">
           {{ end }}
           {{ end }}
