@@ -5,7 +5,7 @@ title = "Haruyama"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
-disqusShortname = "yoshiharuyamashita"
+disqusShortname = ""
 enableEmoji = "true"
 
 ############################# Plugins ##############################
