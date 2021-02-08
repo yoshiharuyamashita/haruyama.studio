@@ -15,7 +15,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 
 ### :fire: 4, 04 Feb 2021, Glaze
 
-{{< img src="4.jpg" >}}
+{{< img src="20210205_224336.jpg" >}}
 
 - 1 tall vase, 1 small vase and 6 yunomis (1 kiln shelf)
 - Tall vase had chipped foot ring due to glaze contacting kiln shelf
@@ -34,7 +34,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 
 ### :fire: 3, 24 Jan 2021, Glaze
 
-{{< img src="3.jpg" >}}
+{{< img src="20210126_083000.jpg" >}}
 
 - 33 yunomis (3 kiln shelves)
 - Tried [Albany Slip Brown](https://www.bluematchbox.co.uk/amaco-potters-choice-albany-slip-brown.html) and [Vert Lustre](https://www.bluematchbox.co.uk/amaco-potters-choice-vert-lustre.html) (preferred)
@@ -53,7 +53,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 
 ### :fire: 2, 23 Dec 2020, Bisque
 
-{{< img src="2.jpg" >}}
+{{< img src="20201225_083422.jpg" >}}
 
 - 5 tall vases and 33 yunomis (1 kiln shelf)
 - Mixture of earthenware and stoneware
@@ -71,7 +71,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 
 ### :fire: 1, 19 Dec 2020, Bisque
 
-{{< img src="1.jpg" >}}
+{{< img src="20201222_070822.jpg" >}}
 
 - All stoneware pots
 - Programme = [Regular bisque firing]({{< ref "/blog/2021-02-07-firing-schedules-with-northern-kilns-little-chief/index.md#-regular-bisque-firing" >}})
