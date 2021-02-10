@@ -33,34 +33,44 @@ enableEmoji = "true"
 [menu]
 
   [[menu.main]]
+  name = "Work"
+  URL = "work"
+  weight = 1
+
+  [[menu.main]]
   name = "Blog"
   URL = "blog"
-  weight = 1
+  weight = 2
 
   [[menu.main]]
   name = "About"
   URL = "about"
-  weight = 2
+  weight = 3
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 3
+  weight = 4
+
+  [[menu.footer]]
+  name = "Work"
+  URL = "work"
+  weight = 1
 
   [[menu.footer]]
   name = "Blog"
   URL = "blog"
-  weight = 1
+  weight = 2
 
   [[menu.footer]]
   name = "About"
   URL = "about"
-  weight = 2
+  weight = 3
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 3
+  weight = 4
 
 #################### Default parameters ################################
 [params]
