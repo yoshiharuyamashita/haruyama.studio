@@ -8,10 +8,12 @@
       <div class="col-lg-5 mb-4 mb-lg-0">
         <!-- product image slider -->
         <div class="product-slider">
-          {{ range .Params.Images }}
-          <div data-image="{{ .image | absURL }}">
-            <img class="img-fluid w-100" src="{{ .image | absURL }}" alt="product-img">
+          {{ with .Resources.ByType "image" }}
+          {{ range . }}
+          <div data-image="{{ .RelPermalink }}">
+            <img class="img-fluid w-100" src="{{ .RelPermalink }}" alt="product-img">
           </div>
+          {{ end }}
           {{ end }}
         </div>
       </div>
