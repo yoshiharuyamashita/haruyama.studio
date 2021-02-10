@@ -17,7 +17,7 @@ shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed 
 productID: "1"
 
 # type must be "products"
-type: "products"
+type: "work"
 
 # product Images
 # first image will be shown in the product page
