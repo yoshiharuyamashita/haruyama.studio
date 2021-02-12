@@ -1,10 +1,10 @@
 ---
-title: "Taba Cream"
+title: "Tea cup"
 date: 2021-02-10T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Square bottom tea cup"
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
@@ -18,10 +18,10 @@ type: "work"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "product-2.png"
-  - image: "product-1.png"
-  - image: "product-3.png"
-  - image: "product-4.png"
+  - image: "1.jpg"
+  - image: "2.jpg"
+  - image: "3.jpg"
+  - image: "4.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
