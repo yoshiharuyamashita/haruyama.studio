@@ -2,26 +2,10 @@
 title: "Kakuzoko Yunomi"
 date: 2021-02-10T11:22:16+06:00
 draft: false
-
-# meta description
-description : "Square bottom tea cup"
-
-# Product Short Description
-shortDescription: "A small square bottom tea cup with speckled finish"
-
-#product ID
+description : "A square bottom tea cup with speckled finish"
+shortDescription: "A square bottom tea cup with speckled finish"
 productID: "1"
-
-# type must be "products"
 type: "work"
-
-# product Images
-# first image will be shown in the product page
-images:
-  - image: "1.jpg"
-  - image: "2.jpg"
-  - image: "3.jpg"
-  - image: "4.jpg"
 ---
 
 - Made from stoneware buff clay
