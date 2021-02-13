@@ -7,7 +7,7 @@ draft: false
 description : "Square bottom tea cup"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "A small square bottom tea cup with speckled finish"
 
 #product ID
 productID: "1"
