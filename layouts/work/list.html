@@ -11,7 +11,8 @@
           <a href="{{ .Permalink }}">
             {{ with .Resources.ByType "image" }}
             {{ range first 1 . }}
-            <img src="{{ .RelPermalink }}" alt="{{ .Title }}" class="card-img-top">
+            {{ $image := .Fit "350x350 q90"}}
+            <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" class="card-img-top">
             {{ end }}
             {{ end }}
           </a>
