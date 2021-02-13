@@ -25,6 +25,8 @@ images:
 ---
 
 - Made from stoneware buff clay
-- Brushed three coats of a Vert Lustre glaze inside and outside
+- Brushed three coats of a Vert Lustre glaze (food safe) inside and outside
 - Glaze fired to 1220&deg;C
+- Approximately 85mm tall, 65mm wide at the base and 75mm wide at the top
+- 170g
 - Handmade in Cardiff UK in 2021
