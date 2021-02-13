@@ -8,10 +8,12 @@
       <div class="col-lg-5 mb-4 mb-lg-0">
         <!-- product image slider -->
         <div class="product-slider">
+          {{ $title := .Title }}
           {{ with .Resources.ByType "image" }}
           {{ range . }}
-          <div data-image="{{ .RelPermalink }}">
-            <img class="img-fluid w-100" src="{{ .RelPermalink }}" alt="product-img">
+          {{ $image := .Fit "500x500 q90"}}
+          <div data-image="{{ $image.RelPermalink }}">
+            <img class="img-fluid w-100" src="{{ $image.RelPermalink }}" alt="{{ $title }}">
           </div>
           {{ end }}
           {{ end }}
