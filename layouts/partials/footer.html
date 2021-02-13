@@ -22,7 +22,7 @@
       <div class="col-lg-4 col-md-5">
         <h5 class="font-weight-medium mb-4">Latest Posts</h5>
         <ul class="list-unstyled">
-          {{ $dontRender :=  (slice "page" "quote" "link" "status") }}
+          {{ $dontRender :=  (slice "page" "quote" "link" "status" "work") }}
           {{ range (first (.Site.Params.countLatestPostsInFooter | default 5) (where (where .Site.Pages.ByPublishDate.Reverse ".Kind" "page") ".Type" "not in" $dontRender )) }}
           <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
           {{ end }}
