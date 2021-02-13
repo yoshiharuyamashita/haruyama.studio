@@ -24,7 +24,7 @@ images:
   - image: "4.jpg"
 ---
 
-- Buff clay from Commercial Clay
-- Vert Lustre stoneware glaze
-- Fired to 1220&deg;C
+- Made from stoneware buff clay
+- Brushed three coats of a Vert Lustre glaze inside and outside
+- Glaze fired to 1220&deg;C
 - Handmade in Cardiff UK in 2021
