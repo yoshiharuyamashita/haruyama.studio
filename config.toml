@@ -76,16 +76,16 @@ enableEmoji = "true"
 [params]
 logo = "images/logo.svg"
 home = "Home"
-strapline = "Ceramics handmade in Cardiff, UK"
+strapline = "Ceramics handmade in Cardiff UK"
 
 # Meta data
-description = "Ceramics handmade in Cardiff, UK"
+description = "Ceramics handmade in Cardiff UK"
 author = "Yoshiharu Yamashita"
 
 # Google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.481583"
-mapLongitude = "-3.179090"
+gmapAPI = ""
+mapLatitude = ""
+mapLongitude = ""
 mapMarker = "images/marker.png"
 
 # Google analitycs
@@ -94,7 +94,7 @@ googleAnalitycsID = "UA-72514969-3"
 # Contact info
 # mobile = ""
 email = "yoshiharuyamashita@outlook.com"
-location = "Cardiff, UK"
+location = "Cardiff UK"
 
 # Count of latest posts to display in footer
 countLatestPostsInFooter = 5
