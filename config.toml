@@ -89,7 +89,7 @@ mapLongitude = ""
 mapMarker = "images/marker.png"
 
 # Google analitycs
-googleAnalitycsID = "UA-72514969-3"
+googleAnalitycsID = ""
 
 # Contact info
 # mobile = ""
