@@ -26,8 +26,6 @@ enableEmoji = "true"
   link = "plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
   link = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  link = "plugins/google-map/gmap.js"
 
 ############################## Navigation ###############################
 [menu]
@@ -81,12 +79,6 @@ strapline = "Ceramics handmade in Cardiff UK"
 # Meta data
 description = "Ceramics handmade in Cardiff UK"
 author = "Yoshiharu Yamashita"
-
-# Google map
-gmapAPI = ""
-mapLatitude = ""
-mapLongitude = ""
-mapMarker = "images/marker.png"
 
 # Google analitycs
 googleAnalitycsID = ""
