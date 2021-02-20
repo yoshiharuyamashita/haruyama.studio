@@ -15,6 +15,8 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 
 ### :fire: 5, 17 Feb 2021, Earthenware Glaze
 
+{{< img-slider dir="5/*" >}}
+
 - 15 yunomis (2 kiln shelves)
 - Red earthenware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
 - [Vitraglaze earthenware glaze sample set](https://www.hot-clay.com/vitraglaze-earthenware-glaze-sample-set.html)
