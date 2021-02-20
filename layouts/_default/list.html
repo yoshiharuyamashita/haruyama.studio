@@ -6,12 +6,12 @@
   <div class="container">
     {{ if eq .Kind "taxonomy" }}
       {{ if eq .Type "categories" }}
-        {{ partialCached "categories" . }}
+        {{ partial "categories.html" . }}
       {{ else if eq .Type "tags" }}
-        {{ partialCached "tags" . }}
+        {{ partial "tags.html" . }}
       {{ end }}
     {{ else }}
-      {{ partialCached "post-list" . }}
+      {{ partial "post-list.html" . }}
     {{ end }}
   </div>
 </section>
