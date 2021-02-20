@@ -1,0 +1,10 @@
+<div class="product-slider">
+  {{ with .Page.Resources.Match (printf "%s" (.Get "dir")) }}
+  {{ range . }}
+  {{ $image := .Fit "400x400 q90"}}
+  <div data-image="{{ $image.RelPermalink }}">
+    <img class="img-fluid w-100" src="{{ $image.RelPermalink }}">
+  </div>
+  {{ end }}
+  {{ end }}
+</div>
