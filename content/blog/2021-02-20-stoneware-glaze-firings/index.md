@@ -4,7 +4,7 @@ date: 2021-02-20T15:45:57Z
 draft: false
 description: "A record of stoneware glaze firing schedules I have used with Northern Kilns Little Chief."
 author: "Yoshiharu Yamashita"
-image: ""
+image: "20210130_134307.jpg"
 categories: ["Pottery"]
 tags: ["Firing"]
 ---
