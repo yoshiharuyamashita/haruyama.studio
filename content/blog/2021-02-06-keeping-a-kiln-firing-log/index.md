@@ -23,7 +23,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 - [BOTZ 9353 Oriental blue](https://www.botz-glasuren.de/en/productoverview/9353/Orientblau/47)
 - [BOTZ 9558 Pebble](https://www.botz-glasuren.de/en/productoverview/9558/Kiesel/231)
 - Was really difficult to brush these glazes (too thick?)
-- Programme = [Normal speed low earthenware glaze firing]({{< ref "/blog/2021-02-20-earthenware-glaze-firings/index.md#-normal-speed" >}})
+- Programme = [Normal speed low earthenware glaze firing]({{< ref "/blog/2021-02-20-earthenware-glaze-firings/index.md#-normal-speed-low-temperature" >}})
 
 {{< bootstrap-table table_class="table table-striped table-bordered" >}}
 |                      | Duration  |
