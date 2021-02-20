@@ -317,7 +317,7 @@
   z-index: 9 !important;
 }
 
-/* product sinngle page */
+/* product single page */
 
 .product-slider {
   .slick-list{
@@ -347,6 +347,25 @@
       img {
         height: auto;
         max-width: 100%;
+      }
+    }
+  }
+}
+
+/* product single page inside content */
+.content {
+  .product-slider {
+    * {
+      margin-bottom: 0px;
+    }
+
+    ul {
+      li {
+        padding-left: 0px;
+
+        &::before {
+          content: none;
+        }
       }
     }
   }
