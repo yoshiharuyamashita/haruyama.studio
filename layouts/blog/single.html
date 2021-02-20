@@ -10,7 +10,7 @@
           {{ if .Params.image }}
             {{ $title := .Title }}
             {{ with .Resources.GetMatch .Params.image }}
-              {{ $image := .Fit "800x600" }}
+              {{ $image := .Fill "770x400 smart" }}
               <img src="{{ $image.RelPermalink }}" alt="{{ $title }}" class="img-fluid w-100 mb-4">
             {{ end }}
           {{ end }}
