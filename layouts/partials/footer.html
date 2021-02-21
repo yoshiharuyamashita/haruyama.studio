@@ -12,9 +12,9 @@
       <div class="col-md-4 col-sm-6">
         <h5 class="font-weight-medium mb-4">Social</h5>
         <!-- Social Icons -->
-        <ul class="list-unstyled">
+        <ul class="list-inline">
           {{ range site.Params.social }}
-          <li class="mb-3"><a class="text-color" href="{{ .link | safeURL }}" target="_blank" rel="noopener"><i class="{{ .icon }} text-primary mr-2"></i>{{ .name }}</a></li>
+          <li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank" rel="noopener"><i class="{{ .icon }} text-primary"></i><span class="d-none">{{ .name }}</span></a></li>
           {{ end }}
         </ul>
       </div>
