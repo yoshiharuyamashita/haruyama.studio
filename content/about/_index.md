@@ -25,7 +25,6 @@ When I am not coding, you can find me quite literally getting my hands dirty cre
 
 ### Haruyama
 
-Haru = spring season
-Yama = mountain
+**Haru** and **Yama** are Japanese words that mean "spring season" and "mountain" respectively.
 
 In creating this website, I hope to showcase my work and also to share some of my experiences in pottery.
