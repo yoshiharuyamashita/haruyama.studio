@@ -8,7 +8,7 @@
       <div class="card-deck">
         {{ $paginator := .Paginate .Data.Pages }}
         {{ range $paginator.Pages }}
-        <div class="col-lg-4 mx-auto mb-5">
+        <div class="col-sm-6 col-lg-4 mx-auto mb-5">
           <article class="card h-100">
             {{ if .Params.image }}
             {{ $title := .Title }}
