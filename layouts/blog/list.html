@@ -5,26 +5,28 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      {{ $paginator := .Paginate .Data.Pages }}
-      {{ range $paginator.Pages }}
-      <div class="col-lg-8 mx-auto mb-5">
-        <article class="card rounded-0 border-0">
-          {{ if .Params.image }}
-          {{ $title := .Title }}
-          {{ with .Resources.GetMatch .Params.image }}
-          {{ $image := .Fill "770x400 smart" }}
-          <img src="{{ $image.RelPermalink }}" alt="{{ $title | markdownify }}" class="card-img-top rounded-top-0">
-          {{ end }}
-          {{ end }}
-          <div class="card-body px-0">
-            <a href="{{ .Permalink }}" class="h4 d-block">{{ .Title | markdownify }}</a>
-            {{ partial "article-meta.html" . }}
-            <p>{{ .Summary }}</p>
-            <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary">Read More</a>
-          </div>
-        </article>
+      <div class="card-deck">
+        {{ $paginator := .Paginate .Data.Pages }}
+        {{ range $paginator.Pages }}
+        <div class="col-lg-4 mx-auto mb-5">
+          <article class="card h-100">
+            {{ if .Params.image }}
+            {{ $title := .Title }}
+            {{ with .Resources.GetMatch .Params.image }}
+            {{ $image := .Fill "770x400 smart" }}
+            <img class="card-img-top" src="{{ $image.RelPermalink }}" alt="{{ $title | markdownify }}">
+            {{ end }}
+            {{ end }}
+            <div class="card-body">
+              {{ partial "article-meta.html" . }}
+              <a href="{{ .Permalink }}" class="h4 d-block">{{ .Title | markdownify }}</a>
+              <p class="card-text">{{ .Summary }}</p>
+            </div>
+            <a href="{{ .Permalink }}" class="card-footer btn btn-primary">View Post</a>
+          </article>
+        </div>
+        {{ end }}
       </div>
-      {{ end }}
     </div>
     {{ template "_internal/pagination.html" . }}
   </div>
