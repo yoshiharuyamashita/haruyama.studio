@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row border-bottom pb-5 justify-content-between">
       <div class="col-md-3 col-sm-6">
-        <h4 class="font-weight-medium mb-4">Links</h4>
+        <h5 class="font-weight-medium mb-4">Links</h5>
         <ul class="list-unstyled">
           {{ range site.Menus.footer }}
           <li class="mb-3"><a class="text-color" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
@@ -10,7 +10,7 @@
         </ul>
       </div>
       <div class="col-md-4 col-sm-6">
-        <h4 class="font-weight-medium mb-4">Connect</h4>
+        <h5 class="font-weight-medium mb-4">Connect</h5>
         <!-- Social Icons -->
         <ul class="list-unstyled">
           {{ with site.Params.email }}
@@ -23,7 +23,7 @@
       </div>
       {{ if gt (.Site.Params.countLatestPostsInFooter | default 5) 0 }}
       <div class="col-lg-4 col-md-5">
-        <h4 class="font-weight-medium mb-4">Latest Posts</h4>
+        <h5 class="font-weight-medium mb-4">Latest Posts</h5>
         <ul class="list-unstyled">
           {{ $dontRender :=  (slice "page" "quote" "link" "status" "work") }}
           {{ range (first (.Site.Params.countLatestPostsInFooter | default 5) (where (where .Site.Pages.ByPublishDate.Reverse ".Kind" "page") ".Type" "not in" $dontRender )) }}
