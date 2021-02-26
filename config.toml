@@ -8,25 +8,6 @@ paginate = 10
 disqusShortname = ""
 enableEmoji = "true"
 
-############################# Plugins ##############################
-[params.plugins]
-
-  # CSS plugins
-  [[params.plugins.css]]
-  link = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  link = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  link = "plugins/themify-icons/themify-icons.css"
-
-  # JS plugins
-  [[params.plugins.js]]
-  link = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  link = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  link = "plugins/slick/slick.min.js"
-
 ############################## Navigation ###############################
 [menu]
 

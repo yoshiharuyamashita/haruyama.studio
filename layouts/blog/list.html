@@ -19,7 +19,7 @@
             {{ end }}
             <div class="card-body">
               {{ partial "article-meta.html" . }}
-              <a href="{{ .Permalink }}" class="h4 d-block">{{ .Title | markdownify }}</a>
+              <a href="{{ .Permalink }}" class="h4 d-block text-color">{{ .Title | markdownify }}</a>
               <p class="card-text">{{ .Summary }}</p>
             </div>
             <a href="{{ .Permalink }}" class="card-footer btn btn-primary">View Post</a>
