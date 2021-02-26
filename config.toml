@@ -97,6 +97,11 @@ copyright = "&copy; 2021 Haruyama"
   link = "https://www.instagram.com/haruyama.studio"
 
   [[params.social]]
+  name = "Twitter"
+  icon = "ti-twitter-alt"
+  link = "https://twitter.com/haruyamastudio"
+
+  [[params.social]]
   name = "GitHub"
   icon = "ti-github"
   link = "https://github.com/yoshiharuyamashita"
