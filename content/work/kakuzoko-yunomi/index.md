@@ -13,4 +13,4 @@ type: "work"
 - Glaze fired to 1220&deg;C
 - Approximately 85mm tall, 65mm wide at the base and 75mm wide at the top
 - 170g
-- Handmade in Cardiff UK in 2021
+- Handmade in Cardiff UK in January 2021
