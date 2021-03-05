@@ -2,40 +2,40 @@
   <div class="container">
     <div class="row border-bottom pb-5 justify-content-between">
       <div class="col-md-3 col-sm-6">
-        <h5 class="font-weight-medium mb-4">Links</h5>
-        <ul class="list-unstyled">
+        <dl class="list-unstyled">
+          <dt class="h5 mb-4">Links</dt>
           {{ range site.Menus.footer }}
-          <li class="mb-3"><a class="text-color" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          <dd class="mb-3"><a class="text-color" href="{{ .URL | absURL }}">{{ .Name }}</a></dd>
           {{ end }}
-        </ul>
+        </dl>
       </div>
       <div class="col-md-4 col-sm-6">
-        <h5 class="font-weight-medium mb-4">Connect</h5>
         <!-- Social Icons -->
-        <ul class="list-unstyled">
+        <dl class="list-unstyled">
+          <dt class="h5 mb-4">Connect</dt>
           {{ with site.Params.email }}
-          <li class="mb-3"><a class="text-color" href="mailto:{{ . }}"><i class="ti-email text-primary mr-2"></i>Email</a></li>
+          <dd class="mb-3"><a class="text-color" href="mailto:{{ . }}"><i class="ti-email text-primary mr-2"></i>Email</a></dd>
           {{ end }}
           {{ range site.Params.social }}
-          <li class="mb-3"><a class="text-color" href="{{ .link | safeURL }}" target="_blank" rel="noopener"><i class="{{ .icon }} text-primary mr-2"></i>{{ .name }}</a></li>
+          <dd class="mb-3"><a class="text-color" href="{{ .link | safeURL }}" target="_blank" rel="noopener"><i class="{{ .icon }} text-primary mr-2"></i>{{ .name }}</a></dd>
           {{ end }}
-        </ul>
+        </dl>
       </div>
       {{ if gt (.Site.Params.countLatestPostsInFooter | default 5) 0 }}
       <div class="col-lg-4 col-md-5">
-        <h5 class="font-weight-medium mb-4">Latest Posts</h5>
-        <ul class="list-unstyled">
+        <dl class="list-unstyled">
+          <dt class="h5 mb-4">Latest Posts</dt>
           {{ $dontRender :=  (slice "page" "quote" "link" "status" "work") }}
           {{ range (first (.Site.Params.countLatestPostsInFooter | default 5) (where (where .Site.Pages.ByPublishDate.Reverse ".Kind" "page") ".Type" "not in" $dontRender )) }}
-          <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
+          <dd class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></dd>
           {{ end }}
-        </ul>
+        </dl>
       </div>
       {{ end }}
     </div>
     <div class="row">
       <div class="col-12 text-center py-4">
-        {{ site.Params.copyright | markdownify  }}
+        {{ site.Params.copyright | markdownify }}
       </div>
     </div>
   </div>
