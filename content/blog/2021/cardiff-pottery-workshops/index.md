@@ -13,7 +13,7 @@ tags: ["Cardiff Pottery Workshops"]
 
 That is the mission statement of [Cardiff Pottery Workshops](http://www.cardiffpotteryworkshops.com/).
 
-I am one of their many students who [experienced wheel thrown pottery for the first time]({{< ref "/blog/2021-01-23-how-i-got-into-pottery" >}}).
+I am one of their many students who [experienced wheel thrown pottery for the first time]({{< ref "/blog/2021/how-i-got-into-pottery" >}}).
 
 My teacher was Kelly, one of the directors of Cardiff Pottery Workshops.
 

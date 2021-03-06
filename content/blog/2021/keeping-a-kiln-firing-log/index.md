@@ -23,7 +23,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 - [BOTZ 9353 Oriental blue](https://www.botz-glasuren.de/en/productoverview/9353/Orientblau/47)
 - [BOTZ 9558 Pebble](https://www.botz-glasuren.de/en/productoverview/9558/Kiesel/231)
 - Was really difficult to brush these glazes (too thick?)
-- Programme = [Normal speed low earthenware glaze firing]({{< ref "/blog/2021-02-20-earthenware-glaze-firings/index.md#-normal-speed-low-temperature" >}})
+- Programme = [Normal speed low earthenware glaze firing]({{< ref "/blog/2021/earthenware-glaze-firings/index.md#-normal-speed-low-temperature" >}})
 
 {{< bootstrap-table table_class="table table-striped table-bordered" >}}
 |                      | Duration  |
@@ -42,7 +42,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 - Tall vase had chipped foot ring due to glaze contacting kiln shelf
 - Also glaze bubbled (brushed too thick or dust on the pot?)
 - Be very careful when getting glaze off shelves!
-- Programme = [Slow more cautious stoneware firing]({{< ref "/blog/2021-02-20-stoneware-glaze-firings/index.md#-slow-more-cautious" >}})
+- Programme = [Slow more cautious stoneware firing]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-slow-more-cautious" >}})
 
 {{< bootstrap-table table_class="table table-striped table-bordered" >}}
 |                      | Duration  |
@@ -61,7 +61,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 - Tried [Albany Slip Brown](https://www.bluematchbox.co.uk/amaco-potters-choice-albany-slip-brown.html) and [Vert Lustre](https://www.bluematchbox.co.uk/amaco-potters-choice-vert-lustre.html) (preferred)
 - 3 coats inside and outside
 - Brushing Albany over Vert produced good effect but not so the other way round
-- Programme = [Slow more cautious stoneware firing]({{< ref "/blog/2021-02-20-stoneware-glaze-firings/index.md#-slow-more-cautious" >}})
+- Programme = [Slow more cautious stoneware firing]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-slow-more-cautious" >}})
 
 {{< bootstrap-table table_class="table table-striped table-bordered" >}}
 |                      | Duration  |
@@ -80,7 +80,7 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 - Mixture of earthenware and stoneware
 - 3 or 4 yunomis stacked inside and outside of vases
 - No broken pots after firing
-- Programme = [Normal bisque firing]({{< ref "/blog/2021-02-20-bisque-firings/index.md#-normal-speed" >}})
+- Programme = [Normal bisque firing]({{< ref "/blog/2021/bisque-firings/index.md#-normal-speed" >}})
 
 {{< bootstrap-table table_class="table table-striped table-bordered" >}}
 |                      | Duration  |
@@ -95,4 +95,4 @@ My kiln is a 13amp plug in top loader called [Little Chief](https://northernkiln
 {{< img src="20201222_070822.jpg" >}}
 
 - All stoneware pots
-- Programme = [Normal bisque firing]({{< ref "/blog/2021-02-20-bisque-firings/index.md#-normal-speed" >}})
+- Programme = [Normal bisque firing]({{< ref "/blog/2021/bisque-firings/index.md#-normal-speed" >}})

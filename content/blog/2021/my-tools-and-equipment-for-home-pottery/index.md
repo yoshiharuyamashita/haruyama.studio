@@ -11,7 +11,7 @@ tags: ["Tools", "Equipment"]
 
 I started to do pottery at home in October 2019. Since then I have been slowly building up my collection of tools and equipment. In this post I would like to share some of my most frequently used ones.
 
-For information about where to buy pottery tools and equipment (mainly in the UK) please check out my [previous post]({{< ref "/blog/2021-01-30-a-list-of-pottery-suppliers" >}}). :thumbsup:
+For information about where to buy pottery tools and equipment (mainly in the UK) please check out my [previous post]({{< ref "/blog/2021/a-list-of-pottery-suppliers" >}}). :thumbsup:
 
 ### Potter's wheel
 

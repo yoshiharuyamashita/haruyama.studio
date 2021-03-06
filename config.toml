@@ -8,6 +8,9 @@ paginate = 10
 disqusShortname = ""
 enableEmoji = "true"
 
+[permalinks]
+  blog = "/blog/:filename/"
+
 ############################## Navigation ###############################
 [menu]
 
