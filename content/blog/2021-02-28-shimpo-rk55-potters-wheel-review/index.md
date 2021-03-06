@@ -1,5 +1,5 @@
 ---
-title: "Shimpo RK-55 Potter's Wheel Review"
+title: "Shimpo RK-55 potter's wheel review"
 date: 2021-02-28T09:56:03Z
 draft: false
 description: "A quick review of Shimpo RK-55 potter's wheel."
