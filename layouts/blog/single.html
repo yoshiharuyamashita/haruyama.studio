@@ -27,6 +27,22 @@
         {{ template "_internal/disqus.html" . }}
       </div>
     </div>
+    <div class="row">
+      <div class="col text-left">
+        {{ with .NextInSection }}
+        <a class="text-color" href="{{ .Permalink }}">
+          <p class="lead">&laquo;&nbsp;Newer</p>{{ .Title }}
+        </a>
+        {{- end }}
+      </div>
+      <div class="col text-right">
+        {{ with .PrevInSection }}
+        <a class="text-color" href="{{ .Permalink }}">
+          <p class="lead">Older&nbsp;&raquo;</p>{{ .Title }}
+        </a>
+        {{- end }}
+      </div>
+    </div>
   </div>
 </section>
 
