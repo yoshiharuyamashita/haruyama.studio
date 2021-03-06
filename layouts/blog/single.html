@@ -18,7 +18,7 @@
             {{.Content}}
           </div>
           {{ with .Params.tags }}
-          <footer>
+          <footer class="py-5">
             <ul class="list-inline mb-3">
               {{ range . }}{{ $urlValue := replace . " " "-" | lower}}{{ with $.Site.GetPage (printf "/tags/%s" $urlValue) }}<li class="list-inline-item"><a class="badge bg-light text-muted" href="{{ .Permalink }}">#{{ .Title }}</a></li>{{ end }}{{ end }}</li>{{ end }}
             </ul>
