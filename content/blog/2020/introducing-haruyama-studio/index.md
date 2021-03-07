@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "20201231_145003.jpg"
 categories: ["News"]
 tags: ["Website"]
+comment: false
 ---
 
 Hello world!

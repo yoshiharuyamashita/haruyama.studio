@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "20210206_190556.jpg"
 categories: ["Pottery"]
 tags: ["Tools", "Equipment"]
+comment: true
 ---
 
 I started to do pottery at home in October 2019. Since then I have been slowly building up my collection of tools and equipment. In this post I would like to share some of my most frequently used ones.

@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "20210130_134307.jpg"
 categories: ["Pottery"]
 tags: ["Firing"]
+comment: true
 ---
 
 Below is a record of stoneware glaze firing schedules I have used with my electric kiln.

@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "20210130_115804.jpg"
 categories: ["Pottery"]
 tags: ["Tools", "Equipment"]
+comment: true
 ---
 
 Pottery requires a lot of materials, tools and equipment etc.

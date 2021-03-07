@@ -24,6 +24,10 @@
             </ul>
           </footer>
         </article>
+        {{ if and (.Params.comment) (site.Params.email) }}
+        <h3>Want to leave a comment?</h3>
+        <p>Feel free to drop me an <strong><a href="mailto:{{ site.Params.email }}">email</a></strong>.</p>
+        {{ end }}
       </div>
     </div>
     <div class="row">

@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "20210206_164059.jpg"
 categories: ["Pottery"]
 tags: ["Firing"]
+comment: true
 ---
 
 I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2019/11/26/keeping-a-kiln-log-free-template/).

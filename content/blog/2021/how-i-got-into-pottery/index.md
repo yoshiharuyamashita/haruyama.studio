@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "20210206_173801.jpg"
 categories: ["Pottery"]
 tags: ["Cardiff Pottery Workshops"]
+comment: true
 ---
 
 I have always loved traditional crafts.

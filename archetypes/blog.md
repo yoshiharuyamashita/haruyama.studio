@@ -5,7 +5,8 @@ draft: true
 description: ""
 author: "Yoshiharu Yamashita"
 image: ""
-categories: []
-tags: []
+categories: ["Pottery", "Review"]
+tags: ["Tools", "Equipment", "Firing"]
+comment: true
 ---
 

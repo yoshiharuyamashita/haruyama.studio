@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "20210124_070420.jpg"
 categories: ["Pottery"]
 tags: ["Firing"]
+comment: true
 ---
 
 Below is a record of bisque firing schedules I have used with my electric kiln.

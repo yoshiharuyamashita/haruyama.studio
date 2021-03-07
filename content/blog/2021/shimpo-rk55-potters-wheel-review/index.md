@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "IMG-20210126-WA0003.jpg"
 categories: ["Review"]
 tags: ["Tools", "Equipment"]
+comment: true
 ---
 
 I initially learnt to throw on one of these wheels and spent a fair amount of time using it.

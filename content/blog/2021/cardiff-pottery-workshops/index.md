@@ -7,6 +7,7 @@ author: "Yoshiharu Yamashita"
 image: "IMG-20210130-WA0011.jpg"
 categories: ["Pottery"]
 tags: ["Cardiff Pottery Workshops"]
+comment: true
 ---
 
 ### To make pottery accessible to all
