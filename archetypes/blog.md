@@ -8,5 +8,6 @@ image: ""
 categories: ["Pottery", "Review"]
 tags: ["Tools", "Equipment", "Firing"]
 comment: true
+tweet: ""
 ---
 

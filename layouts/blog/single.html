@@ -26,7 +26,12 @@
         </article>
         {{ if and (.Params.comment) (site.Params.email) }}
         <h3>Want to leave a comment?</h3>
-        <p>Feel free to drop me an <strong><a href="mailto:{{ site.Params.email }}">email</a></strong>.</p>
+        <p>
+          {{ with .Params.tweet }}
+          Join the discussion on <a href="https://twitter.com/HaruyamaStudio/status/{{ . | safeURL }}" target="_blank" rel="noopener">Twitter</a>.
+          {{ end }}
+          Feel free to drop me an <a href="mailto:{{ site.Params.email }}">email</a>.
+        </p>
         {{ end }}
         <div class="row mt-5">
           <div class="col text-left">

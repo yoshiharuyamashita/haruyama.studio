@@ -8,6 +8,7 @@ image: "IMG-20210130-WA0011.jpg"
 categories: ["Pottery"]
 tags: ["Cardiff Pottery Workshops"]
 comment: true
+tweet: "1368623818475003905"
 ---
 
 ### To make pottery accessible to all
