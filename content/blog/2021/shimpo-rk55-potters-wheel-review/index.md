@@ -37,7 +37,7 @@ I initially learnt to throw on one of these wheels and spent a fair amount of ti
 The specifications of the wheel can be found on the manufacturer's website:
 
 * [Specifications](https://www1.ceramics.nidec-shimpo.com/en_GB/shimpo-rk-55/)
-* [Catalog](https://www1.ceramics.nidec-shimpo.com/wp-content/uploads/2020/01/eu-shimpo-rk-55.pdf).
+* [Catalog](https://www1.ceramics.nidec-shimpo.com/wp-content/uploads/2020/01/eu-shimpo-rk-55.pdf)
 
 ### Who It Suits
 
