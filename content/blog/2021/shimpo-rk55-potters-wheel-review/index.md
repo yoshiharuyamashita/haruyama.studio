@@ -10,13 +10,13 @@ tags: ["Tools", "Equipment"]
 comment: true
 ---
 
-I initially learnt to throw on one of these wheels and spent a fair amount of time using it.
-
 The Shimpo RK-55 is a decent wheel for its price and is extremely easy to set up and start using straight away, though I have found a couple of issues can arise when throwing a large lump of clay.
 
 Here is a video of the wheel, courtesy of Northern Kilns:
 
 {{< youtube coG9XPQjphE >}}
+
+I initially learnt to throw on one of these wheels and spent a fair amount of time using it.
 
 ### Pros
 
@@ -34,7 +34,10 @@ Here is a video of the wheel, courtesy of Northern Kilns:
 
 ### Specifications
 
-The specifications of the wheel can be found on the manufacturer's website [here](https://www1.ceramics.nidec-shimpo.com/en_GB/shimpo-rk-55/) and [here](https://www1.ceramics.nidec-shimpo.com/wp-content/uploads/2020/01/eu-shimpo-rk-55.pdf).
+The specifications of the wheel can be found on the manufacturer's website:
+
+* [Specifications](https://www1.ceramics.nidec-shimpo.com/en_GB/shimpo-rk-55/)
+* [Catalog](https://www1.ceramics.nidec-shimpo.com/wp-content/uploads/2020/01/eu-shimpo-rk-55.pdf).
 
 ### Who It Suits
 
