@@ -35,3 +35,21 @@ Notes:
 - Put bung in at 600&deg;C
 - Open kiln when temperature is below 50&deg;C
 - Using a soak to achieve a 'greener' firing option in which energy and wear and tear on the kiln is less
+
+### :fire: Fast speed
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                 | Segment 1 | Segment 2 |     |
+|-----------------|-----------|-----------|-----|
+| Ramp (&deg;C/h) | 120       | 140       | End |
+| Temp (&deg;C)   | 700       | 980       |     |
+| Soak (h.mm)     | 0.00      | 0.30      |     |
+{{< /bootstrap-table >}}
+
+{{< img src="fast-bisque-firing.png" >}}
+
+Notes:
+
+- Put bung in at 600&deg;C
+- Open kiln when temperature is below 50&deg;C
+- Using a soak to achieve a 'greener' firing option in which energy and wear and tear on the kiln is less

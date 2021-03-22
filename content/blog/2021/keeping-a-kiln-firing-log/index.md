@@ -14,6 +14,21 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 6, 22 Mar 2021, Bisque
+
+{{< img-slider dir="6/*" >}}
+
+- 4 boxes
+- 9 yunomis
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 05 h 41 m |
+| Segment 2            | 02 h 31 m |
+| Cool down (50&deg;C) | 31 h 44 m |
+{{< /bootstrap-table >}}
+
 ### :fire: 5, 17 Feb 2021, Earthenware Glaze
 
 {{< img-slider dir="5/*" >}}
