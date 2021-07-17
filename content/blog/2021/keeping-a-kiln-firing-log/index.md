@@ -14,6 +14,24 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 7, 05 Jul 2021, Bisque
+
+{{< img-slider dir="7/*" >}}
+
+- All stoneware pots
+- Buff stoneware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
+- Brown speckles on some pots for some reason :thinking:
+- Kiln sweating brown liquid, not sure if this is something to worry about :thinking:
+- Programme = [Fast bisque firing]({{< ref "/blog/2021/bisque-firings/index.md#-fast-speed" >}})
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 04 h 38 m |
+| Segment 2            | 03 h 31 m |
+| Cool down (50&deg;C) | Long time |
+{{< /bootstrap-table >}}
+
 ### :fire: 6, 22 Mar 2021, Bisque
 
 {{< img-slider dir="6/*" >}}
