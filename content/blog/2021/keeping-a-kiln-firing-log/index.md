@@ -14,6 +14,26 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 8, 29 Jul 2021, Stoneware Glaze
+
+{{< img-slider dir="8/*" >}}
+
+- For glaze testing (used [some of these](https://www.hot-clay.com/glaze-slip/stoneware-glazes/vitraglaze-stoneware-glazes.html))
+- Favourite = [Reactive White](https://www.hot-clay.com/vitraglaze-stoneware-glaze-toasty-brown-5347.html) inside and [Oxide Green](https://www.hot-clay.com/vitraglaze-stoneware-glaze-oxide-green-5371.html) outside
+- Buff stoneware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
+- Programme = [Normal speed (high)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-high" >}})
+- No kiln sweating this time (see :fire: 7)
+- Used [Hobbyceram Black Underglaze Pencil](https://www.hot-clay.com/hobbyceram-black-underglaze-pencil.html) for glaze identification
+- Cups with horizontal lines = 3 coats, 2 coats and 1 coat from top to bottom (used [Vitraglaze Stoneware Glaze Sample Set](https://www.hot-clay.com/catalog/product/view/id/3853/s/vitraglaze-stoneware-glaze-sample-set/category/213/))
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 05 h 44 m |
+| Segment 2            | 03 h 19 m |
+| Segment 3            | 01 h 41 m |
+{{< /bootstrap-table >}}
+
 ### :fire: 7, 05 Jul 2021, Bisque
 
 {{< img-slider dir="7/*" >}}
