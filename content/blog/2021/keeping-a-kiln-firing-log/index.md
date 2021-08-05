@@ -14,6 +14,30 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 9, 02 Aug 2021, Stoneware Glaze
+
+{{< img-slider dir="9/*" >}}
+
+- Stoneware glazes used:
+  - [Reactive White](https://www.hot-clay.com/vitraglaze-stoneware-glaze-toasty-brown-5347.html) on inside
+  - [Rusty Mottle](https://www.hot-clay.com/vitraglaze-stoneware-glaze-rusty-mottle-5343.html) on outside (4 red cups)
+  - [Burnt Olive](https://www.hot-clay.com/vitraglaze-stoneware-glaze-burnt-olive-5332.html) on outside (4 brown cups)
+  - [Oxide Green](https://www.hot-clay.com/vitraglaze-stoneware-glaze-oxide-green-5371.html) on outside (10 green cups)
+- Good to see Oxide Green reacting to textures added at turning stage :thumbsup:
+- Some pots bubbled badly, especially those with Rusty Mottle and Burnt Olive :thinking:
+- Some pinholes and blisters on pots with Oxide Green :thinking:
+- Buff stoneware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
+- Programme = [Normal speed (high)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-high" >}})
+- Need to learn how to fix those glaze faults
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 05 h 40 m |
+| Segment 2            | 03 h 37 m |
+| Segment 3            | 02 h 05 m |
+{{< /bootstrap-table >}}
+
 ### :fire: 8, 29 Jul 2021, Stoneware Glaze
 
 {{< img-slider dir="8/*" >}}
