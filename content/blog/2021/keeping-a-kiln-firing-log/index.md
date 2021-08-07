@@ -14,6 +14,25 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 10, 05 Aug 2021, Stoneware Glaze
+
+{{< img-slider dir="10/*" >}}
+
+- 7 stoneware plant pots
+- [Oxide Green](https://www.hot-clay.com/vitraglaze-stoneware-glaze-oxide-green-5371.html) on inside and outside
+- Dipping bigger pots was tricky (dip bottom half -> dry -> dip top half -> brush glaze on missed bits)
+- Buff stoneware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
+- Programme = [Normal speed (high)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-high" >}})
+- TODO = experiment with [Normal speed (low)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-low" >}}) or [Normal speed (mid)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-mid" >}}) next :memo:
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 05 h 41 m |
+| Segment 2            | 03 h 35 m |
+| Segment 3            | 01 h 44 m |
+{{< /bootstrap-table >}}
+
 ### :fire: 9, 02 Aug 2021, Stoneware Glaze
 
 {{< img-slider dir="9/*" >}}
