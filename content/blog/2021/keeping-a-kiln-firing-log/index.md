@@ -14,6 +14,29 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 13, 28 Sep 2021, Stoneware Glaze
+
+{{< img-slider dir="13/*" >}}
+
+- Stoneware glazes used:
+  - [Reactive White](https://www.hot-clay.com/vitraglaze-stoneware-glaze-toasty-brown-5347.html) * [Burnt Olive](https://www.hot-clay.com/vitraglaze-stoneware-glaze-burnt-olive-5332.html) (1 plant pot)
+  - [Reactive White](https://www.hot-clay.com/vitraglaze-stoneware-glaze-toasty-brown-5347.html) * [Rusty Mottle](https://www.hot-clay.com/vitraglaze-stoneware-glaze-rusty-mottle-5343.html) (1 round vase)
+  - [Burnt Olive](https://www.hot-clay.com/vitraglaze-stoneware-glaze-burnt-olive-5332.html) (6 vases)
+  - [Oxide Green](https://www.hot-clay.com/vitraglaze-stoneware-glaze-oxide-green-5371.html) (3 vases)
+- Buff stoneware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
+- Programme = [Normal speed (mid)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-mid" >}})
+- A LOT less bubbles :thumbsup:
+- Very noticeable glaze blistering with [Burnt Olive](https://www.hot-clay.com/vitraglaze-stoneware-glaze-burnt-olive-5332.html) (mostly at neck and inside foot ring) :thumbsdown:
+- TODO = reduce soaking time from 40 to 20 minutes next time :memo:
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 05 h 33 m |
+| Segment 2            | 03 h 27 m |
+| Segment 3            | 01 h 26 m |
+{{< /bootstrap-table >}}
+
 ### :fire: 12, 26 Sep 2021, Stoneware Glaze
 
 {{< img-slider dir="12/*" >}}
