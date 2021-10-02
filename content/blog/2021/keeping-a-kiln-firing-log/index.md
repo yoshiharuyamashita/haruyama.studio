@@ -14,6 +14,30 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 12, 26 Sep 2021, Stoneware Glaze
+
+{{< img-slider dir="12/*" >}}
+
+- Stoneware glazes used:
+  - [Reactive White](https://www.hot-clay.com/vitraglaze-stoneware-glaze-toasty-brown-5347.html) on inside
+  - [Rusty Mottle](https://www.hot-clay.com/vitraglaze-stoneware-glaze-rusty-mottle-5343.html) on outside (8 cups)
+  - [Burnt Olive](https://www.hot-clay.com/vitraglaze-stoneware-glaze-burnt-olive-5332.html) on outside (4 cups)
+  - [Oxide Green](https://www.hot-clay.com/vitraglaze-stoneware-glaze-oxide-green-5371.html) on outside (12 cups)
+- Buff stoneware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
+- VitraClay [White Throwing Clay](https://www.hot-clay.com/vitraclay-premium-white-throwing-clay-high-fire.html)
+- Programme = [Normal speed (high)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-high" >}})
+- Most pots bubbled :sob: (MUST try [Normal speed (mid)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-mid" >}}) next)
+- [Rusty Mottle](https://www.hot-clay.com/vitraglaze-stoneware-glaze-rusty-mottle-5343.html) produced the most consistent results (even with different clay types)
+- [Burnt Olive](https://www.hot-clay.com/vitraglaze-stoneware-glaze-burnt-olive-5332.html) on [White Throwing Clay](https://www.hot-clay.com/vitraclay-premium-white-throwing-clay-high-fire.html) could potentially be one of my favourites
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 05 h 38 m |
+| Segment 2            | 03 h 47 m |
+| Segment 3            | 01 h 49 m |
+{{< /bootstrap-table >}}
+
 ### :fire: 11, 21 Sep 2021, Bisque
 
 {{< img-slider dir="11/*" >}}
