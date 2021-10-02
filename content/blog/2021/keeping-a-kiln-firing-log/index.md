@@ -14,6 +14,23 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 11, 21 Sep 2021, Bisque
+
+{{< img-slider dir="11/*" >}}
+
+- All stoneware pieces
+- Buff stoneware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
+- VitraClay [White Throwing Clay](https://www.hot-clay.com/vitraclay-premium-white-throwing-clay-high-fire.html)
+- Programme = [Normal bisque firing]({{< ref "/blog/2021/bisque-firings/index.md#-normal-speed" >}})
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 07 h 09 m |
+| Segment 2            | 02 h 40 m |
+| Cool down (50&deg;C) | Long time |
+{{< /bootstrap-table >}}
+
 ### :fire: 10, 05 Aug 2021, Stoneware Glaze
 
 {{< img-slider dir="10/*" >}}
