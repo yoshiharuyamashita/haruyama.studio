@@ -14,6 +14,32 @@ I am going to do my best to [keep a kiln firing log](https://alongthelanes.com/2
 
 My kiln is a 13amp plug in top loader called [Little Chief](https://northernkilns.com/plug-in-kilns/). You may find this post useful if you are considering buying the same kiln.
 
+### :fire: 14, 04 Oct 2021, Stoneware Glaze
+
+{{< img-slider dir="14/*" >}}
+
+- Stoneware glazes used:
+  - [Lagoon Blue](https://www.hot-clay.com/vitraglaze-stoneware-glaze-lagoon-blue-5337.html) (2 blue cups)
+  - [Burnt Olive](https://www.hot-clay.com/vitraglaze-stoneware-glaze-burnt-olive-5332.html) (1 brown cup)
+  - [Oxide Green](https://www.hot-clay.com/vitraglaze-stoneware-glaze-oxide-green-5371.html) (1 plant pot)
+  - [Reactive White](https://www.hot-clay.com/vitraglaze-stoneware-glaze-toasty-brown-5347.html) * [Lagoon Blue](https://www.hot-clay.com/vitraglaze-stoneware-glaze-lagoon-blue-5337.html) (1 blue tall vase)
+  - [Reactive White](https://www.hot-clay.com/vitraglaze-stoneware-glaze-toasty-brown-5347.html) * [Rusty Mottle](https://www.hot-clay.com/vitraglaze-stoneware-glaze-rusty-mottle-5343.html) (1 brown tall vase)
+- Buff stoneware clay from [Commercial Clay](http://www.commercialclay.co.uk/)
+- VitraClay [White Throwing Clay](https://www.hot-clay.com/vitraclay-premium-white-throwing-clay-high-fire.html) (2 smallest cups)
+- Programme = [Normal speed (mid)]({{< ref "/blog/2021/stoneware-glaze-firings/index.md#-normal-speed-mid" >}}) but with **20 min soak instead of 40 mins**
+- Max temperature went up to 1222&deg;C during soak (for a short period time)
+- Some unwanted bubbles on the brown tall vase but 20 min soak produced better result than firing #12 and #13
+- [Reactive White](https://www.hot-clay.com/vitraglaze-stoneware-glaze-toasty-brown-5347.html) (inside) * [Lagoon Blue](https://www.hot-clay.com/vitraglaze-stoneware-glaze-lagoon-blue-5337.html) (outside) on Buff clay is :thumbsup: (4th photo)
+- [Rusty Mottle](https://www.hot-clay.com/vitraglaze-stoneware-glaze-rusty-mottle-5343.html) came out more like brown this time
+
+{{< bootstrap-table table_class="table table-striped table-bordered" >}}
+|                      | Duration  |
+|----------------------|-----------|
+| Segment 1            | 05 h 41 m |
+| Segment 2            | 03 h 28 m |
+| Segment 3            | 01 h 06 m |
+{{< /bootstrap-table >}}
+
 ### :fire: 13, 28 Sep 2021, Stoneware Glaze
 
 {{< img-slider dir="13/*" >}}
