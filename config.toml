@@ -57,10 +57,10 @@ enableEmoji = "true"
 [params]
 logo = "images/logo.svg"
 home = "Home"
-strapline = "Ceramics handmade in Cardiff UK"
+strapline = "Small batch pottery handmade in Cardiff UK"
 
 # Meta data
-description = "Ceramics handmade in Cardiff UK"
+description = "Small batch pottery handmade in Cardiff UK"
 author = "Yoshiharu Yamashita"
 
 goatcounter = "haruyamastudio"
