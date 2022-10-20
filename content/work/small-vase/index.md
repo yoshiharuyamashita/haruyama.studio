@@ -1,7 +1,7 @@
 ---
 title: "Small Vase"
 date: 2021-02-13T11:47:29Z
-draft: false
+draft: true
 description: "A fluted vase"
 shortDescription: "A fluted vase with shiny finish"
 productID: "2"

@@ -1,7 +1,7 @@
 ---
 title: "Tall Vase"
 date: 2021-02-13T14:29:13Z
-draft: false
+draft: true
 description: "A cylindrical vase"
 shortDescription: "A cylindrical vase with shiny finish"
 productID: "3"
