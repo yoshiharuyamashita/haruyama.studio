@@ -1,7 +1,7 @@
 ######################## Default configuration ####################
 baseURL = "https://haruyama.studio/"
 languageCode = "en"
-title = "Haruyama"
+title = "Haruyama Studio"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
