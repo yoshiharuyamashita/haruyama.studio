@@ -74,7 +74,7 @@ location = "Cardiff UK"
 countLatestPostsInFooter = 5
 
 # Copyright
-copyright = "&copy; 2022 Haruyama Studio"
+copyright = "&copy; 2023 Haruyama Studio"
 
 # Snipcart credentials
 # snipcartApiKey = ""
