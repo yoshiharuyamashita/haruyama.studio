@@ -9,7 +9,6 @@ image: "20220101_110318.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Stoneware glaze firing"]
 comment: true
-tweet: ""
 ---
 
 - Thursday 30 December 2021 - end of year glaze test firing :fire:

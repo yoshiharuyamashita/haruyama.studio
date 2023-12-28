@@ -9,7 +9,6 @@ image: "20211230_092519.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Bisque firing"]
 comment: true
-tweet: ""
 ---
 
 - Tuesday 28th December 2021

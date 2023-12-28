@@ -9,7 +9,6 @@ image: "images/20220817_082018-min.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Bisque firing"]
 comment: true
-tweet: ""
 ---
 
 - Monday 15 August 2022

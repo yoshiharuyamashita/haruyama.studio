@@ -9,7 +9,6 @@ image: "images/20220509_133510.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Bisque firing"]
 comment: true
-tweet: ""
 ---
 
 - Monday 9th May 2022

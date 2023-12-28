@@ -9,7 +9,6 @@ image: "images/20230819_112926-min.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Stoneware glaze firing"]
 comment: true
-tweet: ""
 ---
 
 - Thursday 17 August 2023

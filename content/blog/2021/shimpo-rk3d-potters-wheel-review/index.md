@@ -8,7 +8,6 @@ image: "20210131_100410.jpg"
 categories: ["Review"]
 tags: ["Tools", "Equipment"]
 comment: true
-tweet: "1370788833286090756"
 ---
 
 The Shimpo RK-3D is an extremely versatile wheel for a variety of pottery needs, especially when you throw large pieces or throw off the hump.

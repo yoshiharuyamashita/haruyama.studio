@@ -9,7 +9,6 @@ image: "20211220_122048.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Bisque firing"]
 comment: true
-tweet: ""
 ---
 
 - Saturday 18th December 2021

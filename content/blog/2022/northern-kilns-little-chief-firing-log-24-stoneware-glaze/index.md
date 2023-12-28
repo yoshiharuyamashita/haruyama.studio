@@ -9,7 +9,6 @@ image: "images/20220528_123838-min.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Stoneware glaze firing"]
 comment: true
-tweet: ""
 ---
 
 - Saturday 28 May 2022

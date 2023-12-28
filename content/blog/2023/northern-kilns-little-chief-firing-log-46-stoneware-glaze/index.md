@@ -9,7 +9,6 @@ image: "images/20231013_125121-min.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Stoneware glaze firing", "Experiment"]
 comment: true
-tweet: ""
 ---
 
 - Wednesday 11 October 2023

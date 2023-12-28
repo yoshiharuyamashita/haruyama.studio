@@ -9,7 +9,6 @@ image: "20220109_113042.jpg"
 categories: ["Pottery"]
 tags: ["Electric kiln firing log", "Northern kilns little chief firing log", "Firing log", "Stoneware glaze firing"]
 comment: true
-tweet: ""
 ---
 
 - Sunday 02 January 2022 - first firing of the year :fire:
