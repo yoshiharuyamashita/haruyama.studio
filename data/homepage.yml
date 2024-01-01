@@ -14,7 +14,7 @@ banner:
     videoURL: "https://www.youtube.com/embed/wf4F2-9UXUo"
 
 about:
-  enable: true
+  enable: false
   title: "About Haruyama"
   content: "A platform to showcase my work, share some of my experiences in pottery and document/track my progress."
   image: "about.jpg"
