@@ -1,7 +1,7 @@
 banner:
   enable: true
   title: "One-off Ceramic Objects"
-  content: "Wheel-thrown by Yoshiharu Yamashita, Yoshi for short."
+  content: "Yoshiharu Yamashita is a craftsman working from his studio in Cardiff UK. He creates one-off handmade objects on his potter's wheel."
   image: "banner.jpg"
   # button
   button:
