@@ -29,6 +29,24 @@ cta:
     label: "All Products"
     link: "products"
 
+material:
+  enable: true
+  title: ""
+  subtitle: ""
+  materialItem:
+    - title: "Small-batch"
+      image: "about.jpg"
+      content: "I make each piece as if it were my last."
+    - title: "Independent"
+      image: "about.jpg"
+      content: "What to write here?"
+    - title: "Handcrafted"
+      image: "about.jpg"
+      content: "All of my pieces are made in Wales."
+    - title: "One of a kind"
+      image: "about.jpg"
+      content: "Although I have respect for "
+
 video:
   enable: false
   title: "How To Use This Product?"
