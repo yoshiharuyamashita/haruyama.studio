@@ -36,7 +36,7 @@ material:
   materialItem:
     - title: "Small-batch"
       image: "about.jpg"
-      content: "I aspire to make each piece as if it were my last. It is far from easy to maintain this mindset but it is something I value and practice during my making."
+      content: "I aspire to make each piece as if it were my last. This mindset is something I value and practise during my making."
     #- title: "Independent"
     #  image: "about.jpg"
     #  content: "What to write here?"
@@ -45,7 +45,7 @@ material:
       content: "All of my pieces are made by hand in my home pottery studio. I make them slowly, thoughtfully and with care."
     - title: "One of a kind"
       image: "about.jpg"
-      content: "Although I have respect for a production potter who produces hundreds of identical pieces I prefer my work to be slow paced and unique."
+      content: "Although I have respect for those who produce hundreds of identical pieces, I choose my work to be slow paced and unique."
 
 video:
   enable: false
