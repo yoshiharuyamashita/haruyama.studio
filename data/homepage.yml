@@ -6,7 +6,7 @@ banner:
   # button
   button:
     enable: false
-    label: "All Products"
+    label: "Browse All"
     link: "products"
   # demo video
   video:
@@ -36,16 +36,16 @@ material:
   materialItem:
     - title: "Small-batch"
       image: "about.jpg"
-      content: "I make each piece as if it were my last."
-    - title: "Independent"
-      image: "about.jpg"
-      content: "What to write here?"
+      content: "I aspire to make each piece as if it were my last. It is far from easy to maintain this mindset but it is something I value and practice during my making."
+    #- title: "Independent"
+    #  image: "about.jpg"
+    #  content: "What to write here?"
     - title: "Handcrafted"
       image: "about.jpg"
-      content: "All of my pieces are made in Wales."
+      content: "All of my pieces are made by hand in my home pottery studio. I make them slowly, thoughtfully and with care."
     - title: "One of a kind"
       image: "about.jpg"
-      content: "Although I have respect for "
+      content: "Although I have respect for a production potter who produces hundreds of identical pieces I prefer my work to be slow paced and unique."
 
 video:
   enable: false
