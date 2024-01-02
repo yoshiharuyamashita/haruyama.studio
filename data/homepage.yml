@@ -42,7 +42,7 @@ material:
       content: "All of my pieces are made by hand in my home pottery studio. I make them slowly, thoughtfully and with care."
     - title: "One of a kind"
       image: "about.jpg"
-      content: "Although I have respect for those who churn out hundreds of identical pieces, I choose my work to be slow paced and unique."
+      content: "Although I have a respect for those who churn out hundreds of identical pieces, I choose my work to be slow paced and unique."
 
 video:
   enable: false
