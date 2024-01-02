@@ -31,8 +31,8 @@ cta:
 
 material:
   enable: true
-  title: ""
-  subtitle: ""
+  title: "Haruyama Studio"
+  subtitle: "By Yoshiharu Yamashita"
   materialItem:
     - title: "Made in Small Batches"
       image: "20231106_130048-min.jpg"
