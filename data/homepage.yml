@@ -35,13 +35,13 @@ material:
   subtitle: ""
   materialItem:
     - title: "Small-batch"
-      image: "about.jpg"
+      image: "20231106_130048-min.jpg"
       content: "I aspire to make each piece as if it were my last. This mindset has taught me to be selective in what I ultimately fire in my kiln."
     - title: "Handcrafted in Wales"
-      image: "about.jpg"
+      image: "20230626_185140-min.jpg"
       content: "All of my pieces are made by hand in my home pottery studio. I make them slowly, thoughtfully and with care."
     - title: "One of a kind"
-      image: "about.jpg"
+      image: "20231209_104200-min.jpg"
       content: "Although I have a respect for those who churn out hundreds of identical pieces, I choose my work to be slow paced and unique."
 
 video:
