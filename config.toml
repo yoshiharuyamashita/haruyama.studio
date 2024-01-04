@@ -56,7 +56,7 @@ enableEmoji = "true"
 #################### Default parameters ################################
 [params]
 logo = "images/logo.svg"
-# home = "Home"
+home = "Home"
 strapline = "Small batch pottery handmade in Cardiff UK"
 
 # Meta data
