@@ -18,4 +18,4 @@ Each spiral is determined by the speed of the wheel, pressure applied from the i
 - Approximately H10.5cm x D11cm
 - Hand wash
 
-[Contact us]({{< ref "/contact" >}}) if interested.
+**SOLD**

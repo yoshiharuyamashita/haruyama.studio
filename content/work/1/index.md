@@ -15,4 +15,4 @@ type: "work"
 - Approximately H16.5cm x D10cm
 - Hand wash
 
-[Contact us]({{< ref "/contact" >}}) if interested.
+**SOLD**
