@@ -78,15 +78,13 @@
         <p>{{ .subtitle | markdownify }}</p>
       </div>
     </div>
-    <div class="row align-items-center">
+    <div class="card-deck">
       {{ range .materialItem }}
-      <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="card border-0 text-center">
-          <img src="{{ .image | absURL }}" alt="material" class="card-img-top border-0">
-          <div class="card-body">
-            <h4>{{ .title | markdownify }}</h4>
-            <p>{{ .content | markdownify }}</p>
-          </div>
+      <div class="card">
+        <img src="{{ .image | absURL }}" class="card-img-top" alt="material">
+        <div class="card-body text-center">
+          <h4 class="card-title">{{ .title | markdownify }}</h4>
+          <p class="card-text">{{ .content | markdownify }}</p>
         </div>
       </div>
       {{ end }}
