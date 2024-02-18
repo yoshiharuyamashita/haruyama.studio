@@ -12,7 +12,7 @@
             {{ $title := .Title }}
             {{ with .Resources.ByType "image" }}
             {{ range first 1 . }}
-            {{ $image := .Fit "350x350 q90"}}
+            {{ $image := .Fit "1080x1080 q90"}}
             <img src="{{ $image.RelPermalink }}" alt="{{ $title }}" class="card-img-top">
             {{ end }}
             {{ end }}

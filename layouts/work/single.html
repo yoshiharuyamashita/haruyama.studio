@@ -11,7 +11,7 @@
           {{ $title := .Title }}
           {{ with .Resources.ByType "image" }}
           {{ range . }}
-          {{ $image := .Fit "500x500 q90"}}
+          {{ $image := .Fit "1080x1080 q90"}}
           <div data-image="{{ $image.RelPermalink }}">
             <img class="img-fluid w-100" src="{{ $image.RelPermalink }}" alt="{{ $title }}">
           </div>
