@@ -1,7 +1,7 @@
 banner:
   enable: true
   title: "One-off Ceramic Objects"
-  content: "I am a craftsman working from my studio in Cardiff UK. I create one-off handmade objects on my potter's wheel."
+  content: "**Handmade in Cardiff** in small batches. Wheel-thrown by **Yoshi**, a software engineer turned craftsman **from Japan**."
   image: "banner.jpg"
   # button
   button:
