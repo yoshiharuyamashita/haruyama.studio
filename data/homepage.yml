@@ -5,9 +5,9 @@ banner:
   image: "banner.jpg"
   # button
   button:
-    enable: false
-    label: "Browse All"
-    link: "products"
+    enable: true
+    label: "Shop All"
+    link: "https://haruyama-studio.square.site/"
   # demo video
   video:
     enable: false
