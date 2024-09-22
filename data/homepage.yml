@@ -32,7 +32,7 @@ cta:
 material:
   enable: true
   title: "Haruyama Studio"
-  subtitle: "Make | Refine | Repeat"
+  subtitle: "Make &rarr; Refine &rarr; Repeat"
   materialItem:
     - title: "Made in Small Batches"
       image: "20231106_130048-min.jpg"
