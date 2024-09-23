@@ -63,6 +63,11 @@ enableEmoji = "true"
   URL = "contact"
   weight = 5
 
+  [[menu.footer]]
+  name = "Terms & Conditions"
+  URL = "terms-conditions/"
+  weight = 6
+
 #################### Default parameters ################################
 [params]
 logo = "images/logo.svg"
