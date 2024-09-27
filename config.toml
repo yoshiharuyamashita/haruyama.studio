@@ -14,53 +14,68 @@ enableEmoji = "true"
 [menu]
 
   [[menu.main]]
+  name = "Shop"
+  URL = "https://haruyama-studio.square.site/"
+  weight = 1
+
+  [[menu.main]]
   name = "Work"
   URL = "work"
-  weight = 1
+  weight = 2
 
   [[menu.main]]
   name = "Blog"
   URL = "blog"
-  weight = 2
+  weight = 3
 
   [[menu.main]]
   name = "About"
   URL = "about"
-  weight = 3
+  weight = 4
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 4
+  weight = 5
+
+  [[menu.footer]]
+  name = "Shop"
+  URL = "https://haruyama-studio.square.site/"
+  weight = 1
 
   [[menu.footer]]
   name = "Work"
   URL = "work"
-  weight = 1
+  weight = 2
 
   [[menu.footer]]
   name = "Blog"
   URL = "blog"
-  weight = 2
+  weight = 3
 
   [[menu.footer]]
   name = "About"
   URL = "about"
-  weight = 3
+  weight = 4
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 4
+  weight = 5
+
+  [[menu.footer]]
+  name = "Terms & Conditions"
+  URL = "terms-conditions/"
+  weight = 6
 
 #################### Default parameters ################################
 [params]
 logo = "images/logo.svg"
 home = "Home"
-strapline = "Small batch pottery handmade in Cardiff UK"
+strapline = "One-off ceramic objects handmade in Cardiff in small batches"
 
 # Meta data
-description = "Small batch pottery handmade in Cardiff UK"
+description = "One-off ceramic objects handmade in Cardiff in small batches"
 author = "Yoshiharu Yamashita"
 
 goatcounter = "haruyamastudio"
