@@ -34,13 +34,13 @@ material:
   title: "Haruyama Studio"
   subtitle: "Make &rarr; Refine &rarr; Repeat"
   materialItem:
-    - title: "Made in Small Batches"
+    - title: "**Made in Small Batches**"
       image: "20231106_130048-min.jpg"
       content: "I aspire to make each piece as if it were my last. This mindset forces me to be very selective in what I ultimately fire in my kiln."
-    - title: "Handcrafted in Wales"
+    - title: "**Handcrafted in Wales**"
       image: "20230626_185140-min.jpg"
       content: "All of my pieces are made by hand in my home pottery studio. I make them slowly, thoughtfully and with care."
-    - title: "One of a Kind"
+    - title: "**One of a Kind**"
       image: "20231209_104200-min.jpg"
       content: "Although I have respect for those who churn out hundreds of identical pieces, I prefer my work to be spontaneous and unique."
 
