@@ -1,44 +1,61 @@
 {{ define "main" }}
 
-{{ partial "page-title.html" . }}
+<section>
 
-<section class="section pt-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto mb-5">
-        <p>If you have any queries please do not hesitate to contact me.</p>
-        <form name="contact" action="{{ site.Params.contact.formAction }}" method="POST" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true">
-          <p class="d-none">
-            <label>Don't fill this out if you're human: <input name="bot-field" /></label>
-          </p>
-          <div class="form-group">
-            <label for="name">Name:</label>
-            <input type="text" class="form-control" id="name" name="name" required>
-          </div>
-          <div class="form-group">
-            <label for="email">Email:</label>
-            <input type="email" class="form-control" id="email" name="email" required>
-          </div>
-          <div class="form-group">
-            <label for="subject">Subject:</label>
-            <input type="text" class="form-control" id="subject" name="subject" required>
-          </div>
-          <div class="form-group">
-            <label for="message">Message:</label>
-            <textarea class="form-control" rows="10" id="message" name="message" required></textarea>
-          </div>
-          <div class="form-group">
-            <div data-netlify-recaptcha="true"></div>
-          </div>
-          <button type="submit" class="btn btn-block btn-outline-primary rounded">Submit</button>
-        </form>
-      </div>
-    </div>
+  <h1 class="page-title">{{ .Title }}</h1>
+
+  <div class="copy">
+    {{ .Content }}
   </div>
-</section>
 
-{{ if site.Data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
+  <form
+    name="contact"
+    method="POST"
+    action="/contact/thanks/"
+    data-netlify="true"
+    data-netlify-honeypot="bot-field"
+    data-netlify-recaptcha="true"
+  >
+
+    <input type="hidden" name="form-name" value="contact">
+
+    <p class="visually-hidden">
+      <label>
+        Don’t fill this out if you’re human:
+        <input name="bot-field">
+      </label>
+    </p>
+
+    <div class="form-field">
+      <label for="name">Name</label>
+      <input id="name" name="name" type="text" required>
+    </div>
+
+    <div class="form-field">
+      <label for="email">Email</label>
+      <input id="email" name="email" type="email" required>
+    </div>
+
+    <div class="form-field">
+      <label for="subject">Subject</label>
+      <input id="subject" name="subject" type="text" required>
+    </div>
+
+    <div class="form-field">
+      <label for="message">Message</label>
+      <textarea id="message" name="message" rows="5" required></textarea>
+    </div>
+
+    <div class="form-field">
+      <div data-netlify-recaptcha="true"></div>
+    </div>
+
+    <button type="submit" class="button">
+      Send message
+    </button>
+
+  </form>
+
+</section>
 
 {{ end }}

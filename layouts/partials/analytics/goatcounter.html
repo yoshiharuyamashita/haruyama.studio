@@ -1,0 +1,7 @@
+{{ if and site.Params.goatcounter (not hugo.IsServer) }}
+  <script
+    data-goatcounter="https://{{ site.Params.goatcounter }}.goatcounter.com/count"
+    async
+    src="//gc.zgo.at/count.js">
+  </script>
+{{ end }}

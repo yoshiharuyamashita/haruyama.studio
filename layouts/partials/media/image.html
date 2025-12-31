@@ -1,0 +1,22 @@
+{{ $img := .Resource }}
+{{ $page := .Page }}
+
+{{ if not $img }}
+  {{ errorf "media/image.html: Resource is required" }}
+{{ end }}
+
+{{ $small := $img.Resize "600x" }}
+{{ $medium := $img.Resize "1000x" }}
+{{ $large := $img.Resize "1600x" }}
+
+<img
+  src="{{ $medium.RelPermalink }}"
+  srcset="
+    {{ $small.RelPermalink }} 600w,
+    {{ $medium.RelPermalink }} 1000w,
+    {{ $large.RelPermalink }} 1600w
+  "
+  sizes="(max-width: 768px) 90vw, 860px"
+  alt=""
+  loading="lazy"
+>

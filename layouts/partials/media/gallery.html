@@ -1,0 +1,35 @@
+{{ $page := . }}
+
+{{ if not $page }}
+  {{ errorf "media/gallery.html: page context is required" }}
+{{ end }}
+
+{{ $images := $page.Resources.ByType "image" }}
+
+{{ if eq (len $images) 0 }}
+  {{ return }}
+{{ end }}
+
+{{ if eq (len $images) 1 }}
+
+  {{ partial "media/image.html" (dict "Page" $page "Resource" (index $images 0)) }}
+
+{{ else }}
+
+  <div class="swiper media-swiper">
+    <div class="swiper-wrapper">
+
+      {{ range $images }}
+        <div class="swiper-slide">
+          {{ partial "media/image.html" (dict "Page" $page "Resource" .) }}
+        </div>
+      {{ end }}
+
+    </div>
+
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+{{ end }}

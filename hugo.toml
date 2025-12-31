@@ -1,0 +1,17 @@
+baseURL = "https://haruyama.studio/"
+languageCode = "en-gb"
+title = "Haruyama Studio"
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Haruyama Studio is an artist-led practice creating ceramic objects and prints shaped by attention, chance, and the conditions of the moment."
+  goatcounter = "haruyamastudio"
+
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
