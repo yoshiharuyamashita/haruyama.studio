@@ -1,7 +1,6 @@
 ---
 title: "Contact"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-description: "Ask me a question about pottery, coding or pretty much anything you think I might be able to help with."
+description: "Get in touch with Haruyama Studio for enquiries, collaborations, or exhibition opportunities."
 ---
 
+For enquiries, collaborations, or exhibition opportunities, you’re welcome to get in touch using the form below.

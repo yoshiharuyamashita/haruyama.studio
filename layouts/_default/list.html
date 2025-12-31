@@ -1,23 +1,5 @@
 {{ define "main" }}
-
-{{ partial "page-title.html" . }}
-
-<section class="section pt-0">
-  <div class="container">
-    {{ if eq .Kind "taxonomy" }}
-      {{ if eq .Type "categories" }}
-        {{ partial "categories.html" . }}
-      {{ else if eq .Type "tags" }}
-        {{ partial "tags.html" . }}
-      {{ end }}
-    {{ else }}
-      {{ partial "post-list.html" . }}
-    {{ end }}
+  <div class="container mt-5">
+    {{ .Content }}
   </div>
-</section>
-
-{{ if site.Data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
-
 {{ end }}

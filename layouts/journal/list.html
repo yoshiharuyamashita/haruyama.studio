@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<section>
+
+  <h1 class="page-title">{{ .Title }}</h1>
+
+  <div class="copy">
+    {{ .Content }}
+  </div>
+
+  {{ if gt (len .Pages) 0 }}
+    <div class="journal-list">
+      {{ range .Pages.ByDate.Reverse }}
+        <article class="journal-entry">
+          <h2>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+          </h2>
+        </article>
+      {{ end }}
+    </div>
+  {{ end }}
+
+</section>
+
+{{ end }}
