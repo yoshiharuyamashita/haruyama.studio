@@ -5,6 +5,10 @@ description: "A record of group exhibitions and galleries where Haruyama Studio�
 
 ## Group Exhibitions
 
+**March 2024 – April 2024**  
+*Still : Life*  
+Studio Cennen, Llandeilo, UK  
+
 **November 2023 – January 2024**  
 *Gyda’n gilydd eto / Together again*  
 Mission Gallery, Swansea, UK  
