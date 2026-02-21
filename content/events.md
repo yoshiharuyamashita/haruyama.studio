@@ -3,6 +3,13 @@ title: "Events"
 description: "Updates on upcoming exhibitions, markets, and events involving Haruyama Studio."
 ---
 
+## 2026 Market Dates
+
+**Welsh Makers' Market**  
+1 March · 11am–4pm  
+Chapter, Cardiff  
+[More information](https://www.chapter.org/whats-on/welsh-makers-market)
+
 ## 2025 Market Dates
 
 **Snapped Up Market**  
