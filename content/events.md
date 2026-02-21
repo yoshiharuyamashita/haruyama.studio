@@ -5,29 +5,49 @@ description: "Updates on upcoming exhibitions, markets, and events involving Har
 
 ## 2026 Market Dates
 
-**Welsh Makers' Market**  
+**Welsh Makers’ Market**  
 1 March · 11am–4pm  
 Chapter, Cardiff  
-[More information](https://www.chapter.org/whats-on/welsh-makers-market)
+<a href="https://www.chapter.org/whats-on/welsh-makers-market"
+   target="_blank"
+   rel="noopener noreferrer">
+  More information
+</a>
 
 ## 2025 Market Dates
 
 **Snapped Up Market**  
 13 / 14 December · 11am–4pm  
 Chapter, Cardiff  
-[More information](https://www.theprinthaus.org/snapped-up-market)
+<a href="https://www.theprinthaus.org/snapped-up-market"
+   target="_blank"
+   rel="noopener noreferrer">
+  More information
+</a>
 
 **Christmas Fayre**  
 6 / 7 December · 10am–4pm  
 St Donat’s Castle, Llantwit Major  
-[More information](https://uwcatlanticexperience.com/experiences/arts-entertainment-community/christmas-fayre/)
+<a href="https://uwcatlanticexperience.com/experiences/arts-entertainment-community/christmas-fayre/"
+   target="_blank"
+   rel="noopener noreferrer">
+  More information
+</a>
 
 **Maker’s Archade**  
 16 November · 11am–4pm  
 Paget Rooms, Penarth  
-[More information](https://www.facebook.com/makersarcadecardiff/)
+<a href="https://www.facebook.com/makersarcadecardiff/"
+   target="_blank"
+   rel="noopener noreferrer">
+  More information
+</a>
 
 **Summer Fayre**  
 8 June · 10am–6pm  
 St Donat’s Castle, Llantwit Major  
-[More information](https://uwcatlanticexperience.com/summer-fayre/)
+<a href="https://uwcatlanticexperience.com/summer-fayre/"
+   target="_blank"
+   rel="noopener noreferrer">
+  More information
+</a>
