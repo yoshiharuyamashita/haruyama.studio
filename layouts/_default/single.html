@@ -4,11 +4,31 @@
 
   <h1 class="page-title">{{ .Title }}</h1>
 
-  {{ partial "media/gallery.html" . }}
+  {{ $raw := replace .RawContent "\r\n" "\n" }}
+  {{ $segments := split $raw "<!-- image -->" }}
+  {{ $before := trim (index $segments 0) " \r\n\t" }}
+  {{ $after := "" }}
+  {{ if gt (len $segments) 1 }}
+    {{ $after = trim (delimit (after 1 $segments) "<!-- image -->") " \r\n\t" }}
+  {{ end }}
 
-  <div class="copy">
-    {{ .Content }}
-  </div>
+  {{ if gt (len $segments) 1 }}
+    <div class="copy">
+      {{ $before | markdownify }}
+    </div>
+
+    {{ partial "media/gallery.html" . }}
+
+    <div class="copy">
+      {{ $after | markdownify }}
+    </div>
+  {{ else }}
+    {{ partial "media/gallery.html" . }}
+
+    <div class="copy">
+      {{ .Content }}
+    </div>
+  {{ end }}
 
   {{ with .Params.shop_url }}
     <a

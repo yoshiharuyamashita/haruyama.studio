@@ -7,7 +7,9 @@ description: "Code-generated prints exploring variation, balance, and chance, wi
 
 Through the interaction of systems and chance, compositions emerge.
 
-The works are generated through code‑based processes that introduce
+<!-- image -->
+
+The works are generated through code-based processes that introduce
 variation — shifts in colour, form, density and balance — within a
 set of chosen conditions.
 

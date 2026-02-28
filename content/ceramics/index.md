@@ -8,6 +8,8 @@ description: "Handmade ceramic objects created in small batches in Wales, balanc
 The ceramic work explores everyday and interior forms, from functional
 objects to pieces that quietly hold space within a room.
 
+<!-- image -->
+
 Each piece begins on the wheel through a repeated sequence of
 deliberate movements. While the process remains consistent, the
 conditions are never exactly the same — the clay, the pace of the
