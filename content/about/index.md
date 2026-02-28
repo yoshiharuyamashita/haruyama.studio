@@ -6,12 +6,12 @@ description: "Learn about Haruyama Studio, an artist-led practice based in Wales
 Haruyama Studio is shaped by a way of making that values presence,
 attentiveness, and the fleeting nature of each moment as it unfolds.
 
-The studio is based in Wales and run by Yoshi from Japan, a software
-engineer now working as a maker.
+The studio is based in Wales and run by Yoshi from Japan, a former
+software engineer now working as a maker.
 
-Working across materials and processes, the studio explores how
-intention and chance can coexist. This balance allows outcomes to
-emerge that could not be planned in advance.
+<!--about-image-->
+
+Working across materials and processes — moving between clay and code — the studio explores how intention and chance can coexist. This balance allows outcomes to emerge that could not be planned in advance.
 
 The work is created to sit naturally within daily life, offering
 gentle points of focus through touch and vision. Each work responds

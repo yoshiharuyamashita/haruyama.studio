@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<section>
+
+  <h1 class="page-title">{{ .Title }}</h1>
+
+  {{ $raw := replace .RawContent "\r\n" "\n" }}
+  {{ $segments := split $raw "<!--about-image-->" }}
+  {{ $before := trim (index $segments 0) " \r\n\t" }}
+  {{ $after := "" }}
+  {{ if gt (len $segments) 1 }}
+    {{ $after = trim (delimit (after 1 $segments) "<!--about-image-->") " \r\n\t" }}
+  {{ end }}
+
+  <div class="copy">
+    {{ if gt (len $segments) 1 }}
+      {{ $before | markdownify }}
+    {{ else }}
+      {{ .Content }}
+    {{ end }}
+  </div>
+
+  {{ $aboutImage := .Resources.GetMatch "about.jpg" }}
+  {{ with $aboutImage }}
+    <figure class="about-image-wrap">
+      {{ partial "media/image.html" (dict "Page" $ "Resource" .) }}
+    </figure>
+  {{ end }}
+
+  <div class="copy">
+    {{ if and (gt (len $segments) 1) (ne $after "") }}
+      {{ $after | markdownify }}
+    {{ end }}
+  </div>
+
+</section>
+
+{{ end }}
