@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <section class="links-page">
+    <header class="links-page__header">
+      <a href="/" class="links-page__logo-link" aria-label="Haruyama Studio home">
+        <img
+          src="/images/logo.svg"
+          alt="Haruyama Studio"
+          class="links-page__logo">
+      </a>
+      <h1 class="links-page__title">{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <p class="links-page__subtitle">{{ . }}</p>
+      {{ end }}
+    </header>
+
+    <nav class="links-page__list" aria-label="External links">
+      {{ range .Params.links }}
+        <a
+          class="links-page__button"
+          href="{{ .url }}"
+          {{ if hasPrefix .url "http" }}target="_blank" rel="noopener"{{ end }}>
+          <span class="links-page__label">{{ .label }}</span>
+          <span class="links-page__arrow" aria-hidden="true">›</span>
+        </a>
+      {{ end }}
+    </nav>
+  </section>
+{{ end }}
