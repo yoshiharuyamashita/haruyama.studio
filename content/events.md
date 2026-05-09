@@ -5,6 +5,24 @@ description: "Updates on upcoming exhibitions, markets, and events involving Har
 
 ## 2026 Market Dates
 
+**Cardiff Coffee Festival**  
+14 June · 9am–5.30pm  
+Insole Court, Cardiff  
+<a href="https://insolecourt.org/event/cardiff-coffee-festival-celebration-of-coffee-cafe-culture-in-wales/"
+   target="_blank"
+   rel="noopener noreferrer">
+  More information
+</a>
+
+**Snapped Up Market**  
+6 / 7 June · 11am–5pm  
+Chapter, Cardiff  
+<a href="https://www.theprinthaus.org/snapped-up-market"
+   target="_blank"
+   rel="noopener noreferrer">
+  More information
+</a>
+
 **Welsh Makers’ Market**  
 1 March · 11am–4pm  
 Chapter, Cardiff  
