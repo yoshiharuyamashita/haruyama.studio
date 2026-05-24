@@ -17,8 +17,7 @@
       {{ range .Params.links }}
         <a
           class="links-page__button"
-          href="{{ .url }}"
-          {{ if hasPrefix .url "http" }}target="_blank" rel="noopener"{{ end }}>
+          href="{{ .url }}">
           <span class="links-page__label">{{ .label }}</span>
           <span class="links-page__arrow" aria-hidden="true">›</span>
         </a>

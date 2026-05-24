@@ -1,0 +1,25 @@
+[[redirects]]
+  from = "/links"
+  to = "/links"
+  status = 200
+
+[[redirects]]
+  from = "/links/"
+  to = "/links/"
+  status = 200
+
+[[redirects]]
+  from = "/css/links.css"
+  to = "/css/links.css"
+  status = 200
+
+[[redirects]]
+  from = "/images/logo.svg"
+  to = "/images/logo.svg"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "https://haruyama-studio.square.site"
+  status = 301
+  force = true

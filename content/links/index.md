@@ -1,12 +1,12 @@
 ---
 title: "Haruyama Studio"
-description: "Minimal links for Haruyama Studio."
-subtitle: "Wheel-thrown ceramics · code-generated prints"
+description: "Links for Haruyama Studio."
+subtitle: "Handmade ceramic objects · Cardiff"
 links:
-  - label: "Ceramics Shop"
-    url: "https://haruyama-studio.square.site/"
-  - label: "Prints Shop"
-    url: "https://prints-haruyama-studio.square.site/"
-  - label: "Main Website"
-    url: "/"
+  - label: "Website"
+    url: "https://haruyama-studio.square.site"
+  - label: "One-to-one wheel throwing (Cardiff)"
+    url: "https://haruyama-studio.square.site/teaching"
+  - label: "Events"
+    url: "https://haruyama-studio.square.site/events"
 ---
