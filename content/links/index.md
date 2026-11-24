@@ -9,4 +9,6 @@ links:
     url: "https://haruyama-studio.square.site/teaching"
   - label: "Events"
     url: "https://haruyama-studio.square.site/events"
+  - label: "New Makers of 2026 · CAA Gallery"
+    url: "https://caagallery.org.uk/show/724646"
 ---
